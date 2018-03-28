@@ -1,0 +1,2155 @@
+{
+    "Program": [
+        {
+            "Program name": "Bachelor of Information Technology (Software Development)",
+            "Program category": [
+                "grants",
+                "scholarships",
+                "financial aid",
+                "business",
+                "and industrial",
+                "software",
+                "computing",
+                "technology"
+            ],
+            "The number of courses in the program": 23,
+            "The list of course names": [
+                "Network Fundamentals",
+                "Systems Design",
+                "Artificial Intelligence",
+                "Computer Science Foundations",
+                "Systems Analysis",
+                "Database Fundamentals",
+                "Interface Design Interaction and Experience",
+                "ICT Project",
+                "IT Project Management",
+                "Data Structures",
+                "Concurrent Programming",
+                "Cloud Programming",
+                "Mobile Application Enterprise Development",
+                "Tools for Software Development",
+                "Information Technology Fundamentals",
+                "Programming Fundamentals",
+                "Database for the Enterprise",
+                "Software Development with C++",
+                "Design Thinking and Digital Innovation",
+                "Problem Solving and Programming",
+                "Agile Development with .NET",
+                "Web Development",
+                "Program Statement"
+            ]
+        }
+    ],
+    "Job": [
+        {
+            "job category": "healthcare medical",
+            "Job distribution by states": [
+                [
+                    "\"Victoria\"",
+                    34
+                ],
+                [
+                    "\"New South Wales\"",
+                    39
+                ],
+                [
+                    "\"Queensland\"",
+                    15
+                ],
+                [
+                    "\"Western Australia\"",
+                    14
+                ],
+                [
+                    "\"South Australia\"",
+                    4
+                ],
+                [
+                    "\"Australian Capital Territory\"",
+                    2
+                ]
+            ],
+            "Job distribution by job classification": [
+                [
+                    "Engineering - Software",
+                    32
+                ],
+                [
+                    "Database Development & Administration",
+                    1
+                ],
+                [
+                    "Architects",
+                    1
+                ],
+                [
+                    "Technical Writing",
+                    1
+                ],
+                [
+                    "Developers\\ Programmers",
+                    73
+                ]
+            ],
+            "The total number of jobs": 108
+        }
+    ],
+    "Matching": [
+        {
+            "Hard skills": {
+                "Matched hard skills (Overall)": [
+                    [
+                        "system integration",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "software design",
+                        15,
+                        -0.43783333333333346
+                    ],
+                    [
+                        "crossplatform software development",
+                        98,
+                        0.12760317460317475
+                    ],
+                    [
+                        "system software development",
+                        182,
+                        0.0817705552549303
+                    ],
+                    [
+                        "IT support",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "configuration of operating system",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "IT analysis",
+                        4,
+                        0.024999999999999994
+                    ],
+                    [
+                        "SQL",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "system administration",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "multimedia software development",
+                        98,
+                        0.12760317460317475
+                    ],
+                    [
+                        "IT administration",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "application software development",
+                        166,
+                        0.046769283234126977
+                    ],
+                    [
+                        "testing IT",
+                        77,
+                        -0.0276595744680851
+                    ],
+                    [
+                        "system tests IT",
+                        1,
+                        0.012662337662337661
+                    ],
+                    [
+                        "algorithms",
+                        22,
+                        0.12
+                    ],
+                    [
+                        "data modelling",
+                        2,
+                        0.0
+                    ],
+                    [
+                        "specification IT",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "XML",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "administration information systems",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "installation of operating system",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "documentation IT",
+                        6,
+                        0.09930555555555558
+                    ],
+                    [
+                        "relational database model",
+                        1,
+                        -0.125
+                    ],
+                    [
+                        "operating systems",
+                        2,
+                        0.21666666666666667
+                    ],
+                    [
+                        "Java",
+                        18,
+                        -0.004074074074074065
+                    ],
+                    [
+                        "programming languages",
+                        12,
+                        -0.14911616161616162
+                    ],
+                    [
+                        "functional programming",
+                        3,
+                        0.090625
+                    ],
+                    [
+                        "IT project management",
+                        33,
+                        0.02277777777777778
+                    ],
+                    [
+                        "UML",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "operating system concepts",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "software development",
+                        454,
+                        0.04248988484282607
+                    ],
+                    [
+                        "integration tests IT",
+                        1,
+                        0.0
+                    ],
+                    [
+                        "multimedia project management",
+                        15,
+                        -0.02666666666666667
+                    ],
+                    [
+                        "software development methods",
+                        98,
+                        0.12760317460317475
+                    ],
+                    [
+                        "artificial intelligence",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "Programming",
+                        45,
+                        -0.11932386363636363
+                    ]
+                ],
+                "Matched hard skills (by states of jobs)": [
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "system integration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "application software development",
+                                64,
+                                0.09287037037037037
+                            ],
+                            [
+                                "testing IT",
+                                25,
+                                0.0
+                            ],
+                            [
+                                "crossplatform software development",
+                                34,
+                                0.2329861111111111
+                            ],
+                            [
+                                "system software development",
+                                86,
+                                0.15914943707912457
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "operating system concepts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "configuration of operating system",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "IT analysis",
+                                3,
+                                -0.06666666666666667
+                            ],
+                            [
+                                "software development",
+                                233,
+                                0.11483954451345757
+                            ],
+                            [
+                                "operating systems",
+                                2,
+                                0.21666666666666667
+                            ],
+                            [
+                                "installation of operating system",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "relational database model",
+                                1,
+                                -0.125
+                            ],
+                            [
+                                "software development methods",
+                                34,
+                                0.2329861111111111
+                            ],
+                            [
+                                "Java",
+                                2,
+                                0.05333333333333334
+                            ],
+                            [
+                                "multimedia software development",
+                                34,
+                                0.2329861111111111
+                            ],
+                            [
+                                "Programming",
+                                27,
+                                -0.06352588383838383
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "application software development",
+                                66,
+                                0.026433080808080843
+                            ],
+                            [
+                                "software design",
+                                10,
+                                -0.6420000000000001
+                            ],
+                            [
+                                "testing IT",
+                                25,
+                                0.0
+                            ],
+                            [
+                                "crossplatform software development",
+                                40,
+                                0.07290740740740743
+                            ],
+                            [
+                                "system software development",
+                                60,
+                                0.04574415784832455
+                            ],
+                            [
+                                "system tests IT",
+                                1,
+                                0.012662337662337661
+                            ],
+                            [
+                                "UML",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "data modelling",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "IT analysis",
+                                1,
+                                0.3
+                            ],
+                            [
+                                "software development",
+                                130,
+                                0.0041993464052288215
+                            ],
+                            [
+                                "algorithms",
+                                22,
+                                0.12
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "XML",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "documentation IT",
+                                3,
+                                0.11666666666666668
+                            ],
+                            [
+                                "software development methods",
+                                40,
+                                0.07290740740740743
+                            ],
+                            [
+                                "system administration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "multimedia software development",
+                                40,
+                                0.07290740740740743
+                            ],
+                            [
+                                "Java",
+                                14,
+                                -0.020476190476190464
+                            ],
+                            [
+                                "Programming",
+                                18,
+                                -0.20302083333333334
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "application software development",
+                                12,
+                                -0.31215277777777783
+                            ],
+                            [
+                                "testing IT",
+                                10,
+                                -0.21666666666666665
+                            ],
+                            [
+                                "IT project management",
+                                22,
+                                0.04944444444444445
+                            ],
+                            [
+                                "system software development",
+                                12,
+                                -0.27670028659611995
+                            ],
+                            [
+                                "crossplatform software development",
+                                8,
+                                -0.24953703703703703
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development",
+                                37,
+                                -0.1496296296296296
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "administration information systems",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "integration tests IT",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "multimedia project management",
+                                10,
+                                0.0
+                            ],
+                            [
+                                "software development methods",
+                                8,
+                                -0.24953703703703703
+                            ],
+                            [
+                                "system administration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "multimedia software development",
+                                8,
+                                -0.24953703703703703
+                            ],
+                            [
+                                "IT administration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "programming languages",
+                                6,
+                                0.09583333333333334
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "system integration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software design",
+                                5,
+                                -0.029500000000000016
+                            ],
+                            [
+                                "application software development",
+                                12,
+                                0.13784722222222223
+                            ],
+                            [
+                                "testing IT",
+                                17,
+                                0.0
+                            ],
+                            [
+                                "IT project management",
+                                11,
+                                -0.030555555555555548
+                            ],
+                            [
+                                "system software development",
+                                12,
+                                0.1732997134038801
+                            ],
+                            [
+                                "crossplatform software development",
+                                8,
+                                0.20046296296296298
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development",
+                                41,
+                                0.00809670781893003
+                            ],
+                            [
+                                "specification IT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "multimedia project management",
+                                5,
+                                -0.08
+                            ],
+                            [
+                                "documentation IT",
+                                2,
+                                0.15
+                            ],
+                            [
+                                "software development methods",
+                                8,
+                                0.20046296296296298
+                            ],
+                            [
+                                "Java",
+                                2,
+                                0.05333333333333334
+                            ],
+                            [
+                                "multimedia software development",
+                                8,
+                                0.20046296296296298
+                            ],
+                            [
+                                "programming languages",
+                                6,
+                                -0.39406565656565656
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "functional programming",
+                                3,
+                                0.090625
+                            ],
+                            [
+                                "documentation IT",
+                                1,
+                                -0.054166666666666696
+                            ],
+                            [
+                                "software development",
+                                11,
+                                -0.31432539682539684
+                            ],
+                            [
+                                "artificial intelligence",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            [
+                                "application software development",
+                                12,
+                                0.08070436507936508
+                            ],
+                            [
+                                "crossplatform software development",
+                                8,
+                                0.14332010582010582
+                            ],
+                            [
+                                "system software development",
+                                12,
+                                0.11615685626102294
+                            ],
+                            [
+                                "software development",
+                                2,
+                                -0.13571428571428576
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development methods",
+                                8,
+                                0.14332010582010582
+                            ],
+                            [
+                                "multimedia software development",
+                                8,
+                                0.14332010582010582
+                            ]
+                        ]
+                    ]
+                ],
+                "Matched hard skills (by classification of jobs)": [
+                    [
+                        "Engineering - Software",
+                        [
+                            [
+                                "system integration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software design",
+                                15,
+                                -0.43783333333333346
+                            ],
+                            [
+                                "crossplatform software development",
+                                21,
+                                0.036029411764705935
+                            ],
+                            [
+                                "system software development",
+                                35,
+                                -0.01188049083269667
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "IT analysis",
+                                4,
+                                0.024999999999999994
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "system administration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "multimedia software development",
+                                21,
+                                0.036029411764705935
+                            ],
+                            [
+                                "application software development",
+                                34,
+                                -0.036271367521367476
+                            ],
+                            [
+                                "testing IT",
+                                42,
+                                0.0
+                            ],
+                            [
+                                "algorithms",
+                                22,
+                                0.12
+                            ],
+                            [
+                                "data modelling",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "specification IT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "XML",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "administration information systems",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "documentation IT",
+                                3,
+                                0.1486111111111111
+                            ],
+                            [
+                                "relational database model",
+                                1,
+                                -0.125
+                            ],
+                            [
+                                "Java",
+                                10,
+                                -0.06666666666666665
+                            ],
+                            [
+                                "programming languages",
+                                6,
+                                -0.39406565656565656
+                            ],
+                            [
+                                "UML",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development",
+                                70,
+                                0.02211111111111113
+                            ],
+                            [
+                                "integration tests IT",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "software development methods",
+                                21,
+                                0.036029411764705935
+                            ],
+                            [
+                                "artificial intelligence",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "Programming",
+                                9,
+                                0.08697916666666666
+                            ]
+                        ]
+                    ],
+                    [
+                        "Database Development & Administration",
+                        [
+                            [
+                                "application software development",
+                                6,
+                                -0.6121527777777778
+                            ],
+                            [
+                                "crossplatform software development",
+                                4,
+                                -0.549537037037037
+                            ],
+                            [
+                                "system software development",
+                                6,
+                                -0.5767002865961199
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development",
+                                11,
+                                -0.6643253968253967
+                            ],
+                            [
+                                "software development methods",
+                                4,
+                                -0.549537037037037
+                            ],
+                            [
+                                "multimedia software development",
+                                4,
+                                -0.549537037037037
+                            ],
+                            [
+                                "IT administration",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Architects",
+                        [
+                            [
+                                "Java",
+                                2,
+                                0.05333333333333334
+                            ],
+                            [
+                                "software development",
+                                11,
+                                -0.2643253968253968
+                            ],
+                            [
+                                "IT project management",
+                                11,
+                                -0.030555555555555548
+                            ],
+                            [
+                                "multimedia project management",
+                                5,
+                                -0.08
+                            ]
+                        ]
+                    ],
+                    [
+                        "Technical Writing",
+                        [
+                            [
+                                "application software development",
+                                6,
+                                0.12118055555555558
+                            ],
+                            [
+                                "crossplatform software development",
+                                4,
+                                0.18379629629629632
+                            ],
+                            [
+                                "system software development",
+                                6,
+                                0.15663304673721343
+                            ],
+                            [
+                                "software development",
+                                11,
+                                0.06900793650793652
+                            ],
+                            [
+                                "software development methods",
+                                4,
+                                0.18379629629629632
+                            ],
+                            [
+                                "Java",
+                                2,
+                                0.05333333333333334
+                            ],
+                            [
+                                "multimedia software development",
+                                4,
+                                0.18379629629629632
+                            ]
+                        ]
+                    ],
+                    [
+                        "Developers\\ Programmers",
+                        [
+                            [
+                                "system integration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "crossplatform software development",
+                                69,
+                                0.1875960735171263
+                            ],
+                            [
+                                "system software development",
+                                135,
+                                0.1404177979671401
+                            ],
+                            [
+                                "IT support",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "configuration of operating system",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SQL",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "system administration",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "multimedia software development",
+                                69,
+                                0.1875960735171263
+                            ],
+                            [
+                                "application software development",
+                                120,
+                                0.09461077338736913
+                            ],
+                            [
+                                "testing IT",
+                                35,
+                                -0.06190476190476189
+                            ],
+                            [
+                                "system tests IT",
+                                1,
+                                0.012662337662337661
+                            ],
+                            [
+                                "installation of operating system",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "documentation IT",
+                                3,
+                                0.05000000000000001
+                            ],
+                            [
+                                "operating systems",
+                                2,
+                                0.21666666666666667
+                            ],
+                            [
+                                "Java",
+                                4,
+                                0.095
+                            ],
+                            [
+                                "programming languages",
+                                6,
+                                0.09583333333333334
+                            ],
+                            [
+                                "functional programming",
+                                3,
+                                0.090625
+                            ],
+                            [
+                                "IT project management",
+                                22,
+                                0.04944444444444445
+                            ],
+                            [
+                                "operating system concepts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "software development",
+                                351,
+                                0.07622914555893279
+                            ],
+                            [
+                                "multimedia project management",
+                                10,
+                                0.0
+                            ],
+                            [
+                                "software development methods",
+                                69,
+                                0.1875960735171263
+                            ],
+                            [
+                                "Programming",
+                                36,
+                                -0.1708996212121212
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by states of jobs)": [
+                    [
+                        "\"Victoria\"",
+                        [
+                            "software design",
+                            "ASP",
+                            "SQL",
+                            "user documentation IT",
+                            "database design",
+                            "CSS",
+                            "HTTPS",
+                            "system administration",
+                            "IT administration",
+                            "Natural",
+                            "HTTP",
+                            "HTML",
+                            "customising",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "IT training",
+                            "Python",
+                            "algorithms",
+                            "system tests IT",
+                            "specification IT",
+                            "data modelling",
+                            "administration information systems",
+                            "XML",
+                            "Intranet",
+                            "virtual reality",
+                            "documentation IT",
+                            "data structures",
+                            "MFC",
+                            "acceptance tests",
+                            "Basic",
+                            "Ruby",
+                            "high performance computing",
+                            "JavaScript",
+                            "IT and society",
+                            "PHP",
+                            "theoretical computer science",
+                            "programming languages",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "IT project management",
+                            "UML",
+                            "firewall",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "Perl",
+                            "artificial intelligence",
+                            "CRM IT"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "system integration",
+                            "ASP",
+                            "configuration of operating system",
+                            "user documentation IT",
+                            "database design",
+                            "CSS",
+                            "HTTPS",
+                            "IT administration",
+                            "Natural",
+                            "HTTP",
+                            "HTML",
+                            "customising",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "IT training",
+                            "Python",
+                            "specification IT",
+                            "administration information systems",
+                            "Intranet",
+                            "virtual reality",
+                            "data structures",
+                            "MFC",
+                            "installation of operating system",
+                            "relational database model",
+                            "acceptance tests",
+                            "Basic",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "JavaScript",
+                            "IT and society",
+                            "PHP",
+                            "theoretical computer science",
+                            "programming languages",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "IT project management",
+                            "firewall",
+                            "operating system concepts",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "Perl",
+                            "artificial intelligence",
+                            "CRM IT"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "system integration",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "Java",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "artificial intelligence",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "user documentation IT",
+                            "CSS",
+                            "HTTP",
+                            "HTML",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "Intranet",
+                            "data structures",
+                            "documentation IT",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "bash",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "ASP",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "user documentation IT",
+                            "database design",
+                            "CSS",
+                            "HTTPS",
+                            "system administration",
+                            "IT administration",
+                            "Natural",
+                            "HTTP",
+                            "HTML",
+                            "customising",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "IT training",
+                            "Python",
+                            "algorithms",
+                            "system tests IT",
+                            "data modelling",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "virtual reality",
+                            "data structures",
+                            "MFC",
+                            "installation of operating system",
+                            "relational database model",
+                            "acceptance tests",
+                            "Basic",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "JavaScript",
+                            "IT and society",
+                            "PHP",
+                            "theoretical computer science",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "bash",
+                            "integration tests IT",
+                            "Programming",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "Perl",
+                            "artificial intelligence",
+                            "CRM IT"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "system integration",
+                            "system software development",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "application software development",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "Java",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "crossplatform software development",
+                            "SQL",
+                            "user documentation IT",
+                            "CSS",
+                            "system administration",
+                            "multimedia software development",
+                            "IT administration",
+                            "HTTP",
+                            "HTML",
+                            "testing IT",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "data structures",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "programming languages",
+                            "IT project management",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "software development methods",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "system integration",
+                            "IT support",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "Java",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "artificial intelligence",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "user documentation IT",
+                            "CSS",
+                            "system administration",
+                            "IT administration",
+                            "HTTP",
+                            "HTML",
+                            "testing IT",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "data structures",
+                            "documentation IT",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "programming languages",
+                            "IT project management",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (Overall)": [
+                    "ASP",
+                    "user documentation IT",
+                    "database design",
+                    "CSS",
+                    "HTTPS",
+                    "Natural",
+                    "HTTP",
+                    "HTML",
+                    "customising",
+                    "web based training",
+                    "POP",
+                    "SNMP",
+                    "IT training",
+                    "Python",
+                    "Intranet",
+                    "virtual reality",
+                    "data structures",
+                    "MFC",
+                    "acceptance tests",
+                    "Basic",
+                    "Ruby",
+                    "high performance computing",
+                    "JavaScript",
+                    "IT and society",
+                    "PHP",
+                    "theoretical computer science",
+                    "simulation IT",
+                    "DOM",
+                    "firewall",
+                    "bash",
+                    "IT consultancy",
+                    "Visual Basic",
+                    "Perl",
+                    "CRM IT"
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Engineering - Software",
+                        [
+                            "ASP",
+                            "configuration of operating system",
+                            "user documentation IT",
+                            "database design",
+                            "CSS",
+                            "HTTPS",
+                            "IT administration",
+                            "Natural",
+                            "HTTP",
+                            "HTML",
+                            "customising",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "IT training",
+                            "Python",
+                            "system tests IT",
+                            "Intranet",
+                            "virtual reality",
+                            "data structures",
+                            "MFC",
+                            "installation of operating system",
+                            "acceptance tests",
+                            "Basic",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "JavaScript",
+                            "IT and society",
+                            "PHP",
+                            "theoretical computer science",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "IT project management",
+                            "firewall",
+                            "operating system concepts",
+                            "bash",
+                            "multimedia project management",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "Perl",
+                            "CRM IT"
+                        ]
+                    ],
+                    [
+                        "Database Development & Administration",
+                        [
+                            "system integration",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "Java",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "artificial intelligence",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "SQL",
+                            "user documentation IT",
+                            "CSS",
+                            "system administration",
+                            "HTTP",
+                            "HTML",
+                            "testing IT",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "data structures",
+                            "documentation IT",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "programming languages",
+                            "IT project management",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ],
+                    [
+                        "Architects",
+                        [
+                            "system integration",
+                            "IT support",
+                            "system software development",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "application software development",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "artificial intelligence",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "crossplatform software development",
+                            "SQL",
+                            "user documentation IT",
+                            "CSS",
+                            "system administration",
+                            "multimedia software development",
+                            "IT administration",
+                            "HTTP",
+                            "HTML",
+                            "testing IT",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "data structures",
+                            "documentation IT",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "programming languages",
+                            "bash",
+                            "integration tests IT",
+                            "software development methods",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ],
+                    [
+                        "Technical Writing",
+                        [
+                            "system integration",
+                            "IT support",
+                            "IT analysis",
+                            "configuration of operating system",
+                            "HTTPS",
+                            "Natural",
+                            "customising",
+                            "IT training",
+                            "system tests IT",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "virtual reality",
+                            "installation of operating system",
+                            "MFC",
+                            "Basic",
+                            "JavaScript",
+                            "IT and society",
+                            "theoretical computer science",
+                            "PHP",
+                            "simulation IT",
+                            "DOM",
+                            "functional programming",
+                            "UML",
+                            "firewall",
+                            "operating system concepts",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "database design",
+                            "artificial intelligence",
+                            "CRM IT",
+                            "software design",
+                            "ASP",
+                            "SQL",
+                            "user documentation IT",
+                            "CSS",
+                            "system administration",
+                            "IT administration",
+                            "HTTP",
+                            "HTML",
+                            "testing IT",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "Python",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "data structures",
+                            "documentation IT",
+                            "relational database model",
+                            "acceptance tests",
+                            "Ruby",
+                            "high performance computing",
+                            "operating systems",
+                            "programming languages",
+                            "IT project management",
+                            "bash",
+                            "integration tests IT",
+                            "multimedia project management",
+                            "Perl",
+                            "Programming"
+                        ]
+                    ],
+                    [
+                        "Developers\\ Programmers",
+                        [
+                            "software design",
+                            "ASP",
+                            "IT analysis",
+                            "user documentation IT",
+                            "database design",
+                            "CSS",
+                            "HTTPS",
+                            "IT administration",
+                            "Natural",
+                            "HTTP",
+                            "HTML",
+                            "customising",
+                            "web based training",
+                            "POP",
+                            "SNMP",
+                            "IT training",
+                            "Python",
+                            "algorithms",
+                            "data modelling",
+                            "specification IT",
+                            "XML",
+                            "administration information systems",
+                            "Intranet",
+                            "virtual reality",
+                            "data structures",
+                            "MFC",
+                            "relational database model",
+                            "acceptance tests",
+                            "Basic",
+                            "Ruby",
+                            "high performance computing",
+                            "JavaScript",
+                            "IT and society",
+                            "PHP",
+                            "theoretical computer science",
+                            "simulation IT",
+                            "DOM",
+                            "UML",
+                            "firewall",
+                            "bash",
+                            "integration tests IT",
+                            "IT consultancy",
+                            "Visual Basic",
+                            "Perl",
+                            "artificial intelligence",
+                            "CRM IT"
+                        ]
+                    ]
+                ]
+            },
+            "Soft skills": {
+                "Unmatched soft skills (by states of jobs)": [
+                    [
+                        "\"Victoria\"",
+                        [
+                            "SELFMANAGEMENT",
+                            "LEADERSHIP",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "LEADERSHIP",
+                            "SELFMANAGEMENT",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "SELFMANAGEMENT",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "LEADERSHIP"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "LEADERSHIP",
+                            "SELFMANAGEMENT",
+                            "FLEXIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "LEADERSHIP",
+                            "SELFMANAGEMENT",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "PROBLEM SOLVING",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "SELFMANAGEMENT",
+                            "RESPONSIBILITY"
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Engineering - Software",
+                        [
+                            "SELFMANAGEMENT",
+                            "LEADERSHIP",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "Database Development & Administration",
+                        [
+                            "PROBLEM SOLVING",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Architects",
+                        [
+                            "PROBLEM SOLVING",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "SELFMANAGEMENT",
+                            "RESPONSIBILITY"
+                        ]
+                    ],
+                    [
+                        "Technical Writing",
+                        [
+                            "PROBLEM SOLVING",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "SELFMANAGEMENT",
+                            "RESPONSIBILITY"
+                        ]
+                    ],
+                    [
+                        "Developers\\ Programmers",
+                        [
+                            "SELFMANAGEMENT",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "LEADERSHIP"
+                        ]
+                    ]
+                ],
+                "Matched soft skills (by states of jobs)": [
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                220,
+                                -0.20470996035389974
+                            ],
+                            [
+                                "EXPERIENCES",
+                                641,
+                                -0.04452271108521112
+                            ],
+                            [
+                                "TEAMWORK",
+                                8,
+                                -0.21354166666666666
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                2,
+                                0.037500000000000006
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                176,
+                                -0.018536800180739586
+                            ],
+                            [
+                                "EXPERIENCES",
+                                568,
+                                -0.06327380952380957
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                88,
+                                -0.10179329368723306
+                            ],
+                            [
+                                "EXPERIENCES",
+                                82,
+                                -0.012729500891265599
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                40,
+                                0.13895833333333332
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                44,
+                                0.14820670631276692
+                            ],
+                            [
+                                "EXPERIENCES",
+                                359,
+                                0.056203078078078075
+                            ],
+                            [
+                                "TEAMWORK",
+                                8,
+                                0.0733901515151515
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                44,
+                                -0.35179329368723306
+                            ],
+                            [
+                                "EXPERIENCES",
+                                34,
+                                -0.3375925925925926
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        []
+                    ]
+                ],
+                "Matched soft skills (Overall)": [
+                    [
+                        "PROBLEM SOLVING",
+                        572,
+                        -0.11575924440318369
+                    ],
+                    [
+                        "FLEXIBILITY",
+                        2,
+                        0.037500000000000006
+                    ],
+                    [
+                        "COMMUNICATION",
+                        40,
+                        0.13895833333333332
+                    ],
+                    [
+                        "TEAMWORK",
+                        16,
+                        -0.0700757575757576
+                    ],
+                    [
+                        "EXPERIENCES",
+                        1684,
+                        -0.03781805704738039
+                    ],
+                    [
+                        "RESPONSIBILITY",
+                        0,
+                        0.0
+                    ]
+                ],
+                "Unmatched soft skills (Overall)": [
+                    "SELFMANAGEMENT",
+                    "LEADERSHIP"
+                ],
+                "Matched soft skills (by classification of jobs)": [
+                    [
+                        "Engineering - Software",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                396,
+                                -0.16048437112831052
+                            ],
+                            [
+                                "EXPERIENCES",
+                                676,
+                                -0.019147350993377475
+                            ],
+                            [
+                                "TEAMWORK",
+                                16,
+                                -0.0700757575757576
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                2,
+                                0.037500000000000006
+                            ]
+                        ]
+                    ],
+                    [
+                        "Database Development & Administration",
+                        [
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Architects",
+                        []
+                    ],
+                    [
+                        "Technical Writing",
+                        [
+                            [
+                                "EXPERIENCES",
+                                25,
+                                -0.13046428571428573
+                            ]
+                        ]
+                    ],
+                    [
+                        "Developers\\ Programmers",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                176,
+                                -0.015127709271648644
+                            ],
+                            [
+                                "EXPERIENCES",
+                                983,
+                                -0.04751371742112487
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                40,
+                                0.13895833333333332
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}

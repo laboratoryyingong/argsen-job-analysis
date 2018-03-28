@@ -1,0 +1,29 @@
+{
+  "name": "argsen-job-analysis",
+  "version": "0.1.0",
+  "description": "argsen data analysis : job seek",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laboratoryyingong/argsen-job-analysis.git"
+  },
+  "keywords": [
+    "big",
+    "data",
+    "job",
+    "seek"
+  ],
+  "author": "yin_gong <max.g.laboratory@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laboratoryyingong/argsen-job-analysis/issues"
+  },
+  "homepage": "https://github.com/laboratoryyingong/argsen-job-analysis#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3"
+  }
+}

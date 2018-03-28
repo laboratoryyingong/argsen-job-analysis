@@ -1,0 +1,1660 @@
+{
+    "program": [
+        {
+            "course name": [
+                "Network Fundamentals",
+                "Systems Design",
+                "Artificial Intelligence",
+                "Computer Science Foundations",
+                "Systems Analysis",
+                "Database Fundamentals",
+                "Interface Design Interaction and Experience",
+                "ICT Project",
+                "IT Project Management",
+                "Data Structures",
+                "Concurrent Programming",
+                "Cloud Programming",
+                "Mobile Application Enterprise Development",
+                "Tools for Software Development",
+                "Information Technology Fundamentals",
+                "Programming Fundamentals",
+                "Database for the Enterprise",
+                "Software Development with C++",
+                "Design Thinking and Digital Innovation",
+                "Problem Solving and Programming",
+                "Agile Development with .NET",
+                "Web Development",
+                "Program"
+            ],
+            "program category": [
+                "grants, scholarships and financial aid",
+                "technology and computing",
+                "business and industrial",
+                "software",
+                "finance"
+            ],
+            "# courses": 23,
+            "program name": "Bachelor of Information Technology (Software Development)"
+        }
+    ],
+    "matching": [
+        {
+            "overall matched hard skills": [
+                [
+                    "functional programming",
+                    16
+                ],
+                [
+                    "multimedia software development",
+                    19
+                ],
+                [
+                    "application software development",
+                    22
+                ],
+                [
+                    "SQL",
+                    1
+                ],
+                [
+                    "programming languages",
+                    20
+                ],
+                [
+                    "system software development",
+                    22
+                ],
+                [
+                    "graphic data processing",
+                    5
+                ],
+                [
+                    "user interface tests",
+                    11
+                ],
+                [
+                    "multimedia project management",
+                    12
+                ],
+                [
+                    "system architecture",
+                    12
+                ],
+                [
+                    "high performance computing",
+                    2
+                ],
+                [
+                    "software design",
+                    34
+                ],
+                [
+                    "information security",
+                    5
+                ],
+                [
+                    "database knowledge",
+                    12
+                ],
+                [
+                    "open source software",
+                    2
+                ],
+                [
+                    "testing IT",
+                    12
+                ],
+                [
+                    "Programming",
+                    21
+                ],
+                [
+                    "Basic",
+                    5
+                ],
+                [
+                    "IT administration",
+                    1
+                ],
+                [
+                    "documentation IT",
+                    5
+                ],
+                [
+                    "IT analysis",
+                    3
+                ],
+                [
+                    "algorithms",
+                    13
+                ],
+                [
+                    "specification IT",
+                    7
+                ],
+                [
+                    "Ethernet",
+                    1
+                ],
+                [
+                    "IT support",
+                    1
+                ],
+                [
+                    "data structures",
+                    10
+                ],
+                [
+                    "theoretical computer science",
+                    2
+                ],
+                [
+                    "database design",
+                    33
+                ],
+                [
+                    "artificial intelligence",
+                    1
+                ],
+                [
+                    "network topologies and types",
+                    3
+                ],
+                [
+                    "database development",
+                    29
+                ],
+                [
+                    "Java",
+                    4
+                ],
+                [
+                    "configuration of operating system",
+                    8
+                ],
+                [
+                    "relational database model",
+                    4
+                ],
+                [
+                    "XML",
+                    1
+                ],
+                [
+                    "coordination of IT activities",
+                    1
+                ],
+                [
+                    "multimedia programming",
+                    14
+                ],
+                [
+                    "integration tests IT",
+                    11
+                ],
+                [
+                    "IT system monitoring",
+                    12
+                ],
+                [
+                    "software administration",
+                    8
+                ],
+                [
+                    "database implementation",
+                    21
+                ],
+                [
+                    "database languages",
+                    14
+                ],
+                [
+                    "knowledge management IT",
+                    10
+                ],
+                [
+                    "web administration",
+                    2
+                ],
+                [
+                    "data modelling",
+                    12
+                ],
+                [
+                    "application programming",
+                    20
+                ],
+                [
+                    "office software",
+                    7
+                ],
+                [
+                    "organisation programming",
+                    17
+                ],
+                [
+                    "process analysis IT",
+                    6
+                ],
+                [
+                    "IT project management",
+                    22
+                ],
+                [
+                    "code documentation",
+                    9
+                ],
+                [
+                    "network configuration",
+                    11
+                ],
+                [
+                    "software debugging",
+                    9
+                ],
+                [
+                    "parallel computing",
+                    6
+                ],
+                [
+                    "operational analysis IT",
+                    8
+                ],
+                [
+                    "database analysis",
+                    11
+                ],
+                [
+                    "network technology IT",
+                    13
+                ],
+                [
+                    "IT security concepts",
+                    7
+                ],
+                [
+                    "script languages",
+                    6
+                ],
+                [
+                    "module tests",
+                    9
+                ],
+                [
+                    "structured programming",
+                    18
+                ],
+                [
+                    "IT user support",
+                    2
+                ],
+                [
+                    "backup strategies",
+                    3
+                ],
+                [
+                    "Email protocols",
+                    2
+                ],
+                [
+                    "humancomputer interaction",
+                    2
+                ],
+                [
+                    "special IT fields",
+                    3
+                ],
+                [
+                    "network protocols",
+                    10
+                ],
+                [
+                    "network planning",
+                    11
+                ],
+                [
+                    "Cost estimation IT",
+                    1
+                ],
+                [
+                    "IT installation and configuration",
+                    3
+                ],
+                [
+                    "ecommerce systems",
+                    11
+                ],
+                [
+                    "distributed computing",
+                    5
+                ],
+                [
+                    "IT and society",
+                    1
+                ],
+                [
+                    "simulation IT",
+                    1
+                ],
+                [
+                    "language recognition IT",
+                    6
+                ],
+                [
+                    "software verification",
+                    8
+                ]
+            ],
+            "course level matched soft skills": [
+                [
+                    "Network Fundamentals",
+                    [
+                        "COMMUNICATION"
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                [
+                    "Systems Design",
+                    [],
+                    []
+                ],
+                [
+                    "Artificial Intelligence",
+                    [
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        6
+                    ]
+                ],
+                [
+                    "Computer Science Foundations",
+                    [
+                        "COMMUNICATION",
+                        "PROBLEM SOLVING",
+                        "RESPONSIBILITY"
+                    ],
+                    [
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Systems Analysis",
+                    [
+                        "PROBLEM SOLVING",
+                        "TEAMWORK"
+                    ],
+                    [
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Database Fundamentals",
+                    [],
+                    []
+                ],
+                [
+                    "Interface Design Interaction and Experience",
+                    [],
+                    []
+                ],
+                [
+                    "ICT Project",
+                    [
+                        "PROBLEM SOLVING",
+                        "SELFMANAGEMENT",
+                        "TEAMWORK",
+                        "EXPERIENCES"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "IT Project Management",
+                    [
+                        "COMMUNICATION",
+                        "PROBLEM SOLVING",
+                        "SELFMANAGEMENT",
+                        "TEAMWORK",
+                        "EXPERIENCES"
+                    ],
+                    [
+                        3,
+                        1,
+                        1,
+                        2,
+                        5
+                    ]
+                ],
+                [
+                    "Data Structures",
+                    [
+                        "PROBLEM SOLVING",
+                        "SELFMANAGEMENT",
+                        "TEAMWORK",
+                        "LEADERSHIP"
+                    ],
+                    [
+                        2,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Concurrent Programming",
+                    [],
+                    []
+                ],
+                [
+                    "Cloud Programming",
+                    [
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        1
+                    ]
+                ],
+                [
+                    "Mobile Application Enterprise Development",
+                    [
+                        "SELFMANAGEMENT",
+                        "TEAMWORK",
+                        "EXPERIENCES"
+                    ],
+                    [
+                        1,
+                        2,
+                        3
+                    ]
+                ],
+                [
+                    "Tools for Software Development",
+                    [],
+                    []
+                ],
+                [
+                    "Information Technology Fundamentals",
+                    [
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        1
+                    ]
+                ],
+                [
+                    "Programming Fundamentals",
+                    [
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        5
+                    ]
+                ],
+                [
+                    "Database for the Enterprise",
+                    [],
+                    []
+                ],
+                [
+                    "Software Development with C++",
+                    [
+                        "COMMUNICATION",
+                        "TEAMWORK",
+                        "EXPERIENCES",
+                        "LEADERSHIP"
+                    ],
+                    [
+                        3,
+                        1,
+                        2,
+                        1
+                    ]
+                ],
+                [
+                    "Design Thinking and Digital Innovation",
+                    [
+                        "COMMUNICATION",
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        2,
+                        5
+                    ]
+                ],
+                [
+                    "Problem Solving and Programming",
+                    [
+                        "COMMUNICATION",
+                        "PROBLEM SOLVING"
+                    ],
+                    [
+                        1,
+                        4
+                    ]
+                ],
+                [
+                    "Agile Development with .NET",
+                    [],
+                    []
+                ],
+                [
+                    "Web Development",
+                    [],
+                    []
+                ],
+                [
+                    "Program Statement",
+                    [
+                        "COMMUNICATION",
+                        "PROBLEM SOLVING",
+                        "SELFMANAGEMENT",
+                        "TEAMWORK",
+                        "PROFESSIONALISM",
+                        "EXPERIENCES",
+                        "LEADERSHIP",
+                        "FLEXIBILITY"
+                    ],
+                    [
+                        2,
+                        6,
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        1
+                    ]
+                ]
+            ],
+            "overall unmatched soft skills": [
+                "COURTESY"
+            ],
+            "overall matched soft skills": [
+                [
+                    "COMMUNICATION",
+                    14
+                ],
+                [
+                    "PROBLEM SOLVING",
+                    34
+                ],
+                [
+                    "SELFMANAGEMENT",
+                    5
+                ],
+                [
+                    "TEAMWORK",
+                    9
+                ],
+                [
+                    "PROFESSIONALISM",
+                    1
+                ],
+                [
+                    "EXPERIENCES",
+                    14
+                ],
+                [
+                    "LEADERSHIP",
+                    3
+                ],
+                [
+                    "FLEXIBILITY",
+                    1
+                ],
+                [
+                    "RESPONSIBILITY",
+                    1
+                ]
+            ],
+            "overall unmatched hard skills": [
+                "web based training",
+                "IT training",
+                "CRM IT",
+                "JavaScript",
+                "IT consultancy",
+                "ASP",
+                "Python",
+                "Internet",
+                "Ruby",
+                "PHP",
+                "HTML",
+                "HTTP",
+                "customising",
+                "CSS",
+                "Delphi",
+                "Digital signatures",
+                "Windows DNA",
+                "DOM",
+                "Apple Talk",
+                "virtual reality",
+                "Clientserver",
+                "medical informatics",
+                "HTTPS",
+                "Perl"
+            ],
+            "course level matched hard skills": [
+                [
+                    "Network Fundamentals",
+                    [
+                        "functional programming",
+                        "software design",
+                        "information security",
+                        "Basic",
+                        "Ethernet",
+                        "database design",
+                        "network topologies and types",
+                        "configuration of operating system",
+                        "database implementation",
+                        "knowledge management IT",
+                        "data modelling",
+                        "IT project management",
+                        "network configuration",
+                        "network technology IT",
+                        "IT security concepts",
+                        "Email protocols",
+                        "network protocols",
+                        "network planning",
+                        "IT installation and configuration"
+                    ],
+                    [
+                        1,
+                        2,
+                        1,
+                        2,
+                        1,
+                        2,
+                        1,
+                        3,
+                        1,
+                        2,
+                        1,
+                        2,
+                        9,
+                        8,
+                        1,
+                        2,
+                        9,
+                        7,
+                        2
+                    ]
+                ],
+                [
+                    "Systems Design",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "system architecture",
+                        "software design",
+                        "documentation IT",
+                        "IT analysis",
+                        "specification IT",
+                        "database design",
+                        "database development",
+                        "configuration of operating system",
+                        "IT system monitoring",
+                        "process analysis IT",
+                        "code documentation",
+                        "operational analysis IT",
+                        "database analysis",
+                        "ecommerce systems"
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        7,
+                        3,
+                        1,
+                        3,
+                        6,
+                        2,
+                        1,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "Artificial Intelligence",
+                    [
+                        "programming languages",
+                        "system software development",
+                        "user interface tests",
+                        "system architecture",
+                        "database knowledge",
+                        "Programming",
+                        "Basic",
+                        "configuration of operating system",
+                        "IT system monitoring",
+                        "knowledge management IT",
+                        "operational analysis IT",
+                        "network planning",
+                        "ecommerce systems"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Computer Science Foundations",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "software design",
+                        "open source software",
+                        "database development",
+                        "software administration",
+                        "office software",
+                        "code documentation",
+                        "software debugging",
+                        "operational analysis IT",
+                        "IT security concepts",
+                        "software verification"
+                    ],
+                    [
+                        2,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1,
+                        2,
+                        2,
+                        1,
+                        2,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "Systems Analysis",
+                    [
+                        "system software development",
+                        "user interface tests",
+                        "system architecture",
+                        "IT analysis",
+                        "specification IT",
+                        "database development",
+                        "coordination of IT activities",
+                        "IT system monitoring",
+                        "data modelling",
+                        "process analysis IT",
+                        "operational analysis IT",
+                        "database analysis",
+                        "ecommerce systems"
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "Database Fundamentals",
+                    [
+                        "graphic data processing",
+                        "software design",
+                        "information security",
+                        "database knowledge",
+                        "IT administration",
+                        "data structures",
+                        "database design",
+                        "database development",
+                        "relational database model",
+                        "software administration",
+                        "database implementation",
+                        "database languages",
+                        "web administration",
+                        "data modelling",
+                        "organisation programming",
+                        "database analysis",
+                        "structured programming"
+                    ],
+                    [
+                        1,
+                        2,
+                        1,
+                        5,
+                        1,
+                        3,
+                        6,
+                        5,
+                        3,
+                        1,
+                        5,
+                        5,
+                        1,
+                        2,
+                        1,
+                        5,
+                        2
+                    ]
+                ],
+                [
+                    "Interface Design Interaction and Experience",
+                    [
+                        "functional programming",
+                        "application software development",
+                        "user interface tests",
+                        "system architecture",
+                        "software design",
+                        "Basic",
+                        "database design",
+                        "IT system monitoring",
+                        "database implementation",
+                        "application programming",
+                        "parallel computing",
+                        "IT user support",
+                        "humancomputer interaction",
+                        "ecommerce systems",
+                        "distributed computing"
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        2,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        2,
+                        1,
+                        2,
+                        2,
+                        2
+                    ]
+                ],
+                [
+                    "ICT Project",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "multimedia project management",
+                        "specification IT",
+                        "database development",
+                        "application programming",
+                        "IT project management",
+                        "backup strategies",
+                        "Cost estimation IT"
+                    ],
+                    [
+                        1,
+                        2,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        5,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "IT Project Management",
+                    [
+                        "user interface tests",
+                        "multimedia project management",
+                        "database knowledge",
+                        "database development",
+                        "knowledge management IT",
+                        "IT project management",
+                        "network planning"
+                    ],
+                    [
+                        1,
+                        6,
+                        1,
+                        1,
+                        2,
+                        8,
+                        2
+                    ]
+                ],
+                [
+                    "Data Structures",
+                    [
+                        "functional programming",
+                        "application software development",
+                        "programming languages",
+                        "graphic data processing",
+                        "software design",
+                        "Programming",
+                        "Basic",
+                        "algorithms",
+                        "specification IT",
+                        "data structures",
+                        "database design",
+                        "database development",
+                        "multimedia programming",
+                        "software administration",
+                        "database implementation",
+                        "data modelling",
+                        "application programming",
+                        "office software",
+                        "organisation programming",
+                        "process analysis IT",
+                        "software debugging",
+                        "parallel computing",
+                        "structured programming",
+                        "distributed computing",
+                        "software verification"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        2,
+                        5,
+                        1,
+                        1,
+                        11,
+                        1,
+                        4,
+                        4,
+                        2,
+                        1,
+                        1,
+                        5,
+                        3,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        3,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Concurrent Programming",
+                    [
+                        "functional programming",
+                        "multimedia software development",
+                        "application software development",
+                        "programming languages",
+                        "system software development",
+                        "user interface tests",
+                        "system architecture",
+                        "high performance computing",
+                        "software design",
+                        "open source software",
+                        "testing IT",
+                        "Programming",
+                        "theoretical computer science",
+                        "database design",
+                        "Java",
+                        "multimedia programming",
+                        "integration tests IT",
+                        "IT system monitoring",
+                        "software administration",
+                        "database implementation",
+                        "database languages",
+                        "data modelling",
+                        "application programming",
+                        "office software",
+                        "organisation programming",
+                        "software debugging",
+                        "parallel computing",
+                        "script languages",
+                        "module tests",
+                        "structured programming",
+                        "ecommerce systems",
+                        "distributed computing",
+                        "language recognition IT",
+                        "software verification"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        4,
+                        1,
+                        3,
+                        1,
+                        1,
+                        2,
+                        3,
+                        1,
+                        2,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        2,
+                        2,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "Cloud Programming",
+                    [
+                        "user interface tests",
+                        "testing IT",
+                        "integration tests IT",
+                        "module tests"
+                    ],
+                    [
+                        1,
+                        2,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Mobile Application Enterprise Development",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "multimedia project management",
+                        "system architecture",
+                        "software design",
+                        "IT analysis",
+                        "database design",
+                        "database development",
+                        "IT system monitoring",
+                        "database implementation",
+                        "application programming",
+                        "process analysis IT",
+                        "IT project management",
+                        "network configuration",
+                        "operational analysis IT",
+                        "database analysis",
+                        "network technology IT",
+                        "network protocols",
+                        "network planning",
+                        "ecommerce systems"
+                    ],
+                    [
+                        3,
+                        3,
+                        3,
+                        1,
+                        1,
+                        2,
+                        1,
+                        2,
+                        3,
+                        1,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Tools for Software Development",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "IT support",
+                        "IT user support"
+                    ],
+                    [
+                        2,
+                        2,
+                        2,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Information Technology Fundamentals",
+                    [
+                        "functional programming",
+                        "multimedia software development",
+                        "application software development",
+                        "programming languages",
+                        "system software development",
+                        "multimedia project management",
+                        "system architecture",
+                        "high performance computing",
+                        "Programming",
+                        "algorithms",
+                        "theoretical computer science",
+                        "network topologies and types",
+                        "database development",
+                        "configuration of operating system",
+                        "relational database model",
+                        "multimedia programming",
+                        "IT system monitoring",
+                        "database languages",
+                        "knowledge management IT",
+                        "data modelling",
+                        "application programming",
+                        "organisation programming",
+                        "IT project management",
+                        "parallel computing",
+                        "operational analysis IT",
+                        "IT security concepts",
+                        "script languages",
+                        "structured programming",
+                        "ecommerce systems",
+                        "distributed computing",
+                        "language recognition IT"
+                    ],
+                    [
+                        3,
+                        1,
+                        1,
+                        5,
+                        1,
+                        1,
+                        1,
+                        1,
+                        4,
+                        1,
+                        1,
+                        1,
+                        1,
+                        2,
+                        1,
+                        3,
+                        1,
+                        2,
+                        1,
+                        1,
+                        3,
+                        4,
+                        1,
+                        1,
+                        2,
+                        1,
+                        2,
+                        3,
+                        1,
+                        1,
+                        2
+                    ]
+                ],
+                [
+                    "Programming Fundamentals",
+                    [
+                        "functional programming",
+                        "multimedia software development",
+                        "application software development",
+                        "programming languages",
+                        "system software development",
+                        "user interface tests",
+                        "software design",
+                        "testing IT",
+                        "Programming",
+                        "data structures",
+                        "database design",
+                        "database development",
+                        "Java",
+                        "multimedia programming",
+                        "integration tests IT",
+                        "knowledge management IT",
+                        "application programming",
+                        "organisation programming",
+                        "IT project management",
+                        "network configuration",
+                        "IT security concepts",
+                        "module tests",
+                        "structured programming",
+                        "backup strategies",
+                        "IT installation and configuration"
+                    ],
+                    [
+                        3,
+                        1,
+                        1,
+                        3,
+                        1,
+                        2,
+                        2,
+                        3,
+                        3,
+                        1,
+                        2,
+                        1,
+                        1,
+                        3,
+                        3,
+                        1,
+                        3,
+                        3,
+                        1,
+                        1,
+                        2,
+                        3,
+                        3,
+                        2,
+                        1
+                    ]
+                ],
+                [
+                    "Database for the Enterprise",
+                    [
+                        "graphic data processing",
+                        "database knowledge",
+                        "data structures",
+                        "database design",
+                        "network topologies and types",
+                        "database development",
+                        "XML",
+                        "integration tests IT",
+                        "database implementation",
+                        "database languages",
+                        "data modelling",
+                        "database analysis",
+                        "special IT fields"
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        2,
+                        1,
+                        2,
+                        1,
+                        1,
+                        2,
+                        2,
+                        2,
+                        2,
+                        1
+                    ]
+                ],
+                [
+                    "Software Development with C++",
+                    [
+                        "functional programming",
+                        "multimedia software development",
+                        "application software development",
+                        "programming languages",
+                        "system software development",
+                        "multimedia project management",
+                        "software design",
+                        "testing IT",
+                        "Programming",
+                        "database design",
+                        "database development",
+                        "multimedia programming",
+                        "integration tests IT",
+                        "software administration",
+                        "database languages",
+                        "knowledge management IT",
+                        "application programming",
+                        "office software",
+                        "organisation programming",
+                        "IT project management",
+                        "code documentation",
+                        "software debugging",
+                        "operational analysis IT",
+                        "IT security concepts",
+                        "script languages",
+                        "module tests",
+                        "structured programming",
+                        "language recognition IT",
+                        "software verification"
+                    ],
+                    [
+                        1,
+                        3,
+                        3,
+                        1,
+                        3,
+                        1,
+                        2,
+                        2,
+                        3,
+                        1,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        3,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Design Thinking and Digital Innovation",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "system software development",
+                        "database development",
+                        "organisation programming",
+                        "IT and society"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Problem Solving and Programming",
+                    [
+                        "functional programming",
+                        "programming languages",
+                        "user interface tests",
+                        "testing IT",
+                        "Programming",
+                        "documentation IT",
+                        "algorithms",
+                        "multimedia programming",
+                        "integration tests IT",
+                        "database implementation",
+                        "application programming",
+                        "organisation programming",
+                        "code documentation",
+                        "software debugging",
+                        "module tests",
+                        "structured programming"
+                    ],
+                    [
+                        3,
+                        3,
+                        1,
+                        1,
+                        5,
+                        1,
+                        1,
+                        3,
+                        1,
+                        1,
+                        3,
+                        3,
+                        2,
+                        2,
+                        1,
+                        3
+                    ]
+                ],
+                [
+                    "Agile Development with .NET",
+                    [
+                        "multimedia software development",
+                        "application software development",
+                        "SQL",
+                        "programming languages",
+                        "system software development",
+                        "graphic data processing",
+                        "database knowledge",
+                        "database design",
+                        "database development",
+                        "integration tests IT",
+                        "database implementation",
+                        "database languages",
+                        "application programming",
+                        "process analysis IT",
+                        "IT project management",
+                        "database analysis",
+                        "script languages",
+                        "simulation IT",
+                        "language recognition IT"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        3,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Web Development",
+                    [
+                        "software design",
+                        "database design",
+                        "web administration",
+                        "network technology IT",
+                        "software verification"
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                ],
+                [
+                    "Program",
+                    [
+                        "functional programming",
+                        "multimedia software development",
+                        "application software development",
+                        "programming languages",
+                        "system software development",
+                        "user interface tests",
+                        "multimedia project management",
+                        "system architecture",
+                        "software design",
+                        "information security",
+                        "database knowledge",
+                        "testing IT",
+                        "Programming",
+                        "documentation IT",
+                        "database design",
+                        "artificial intelligence",
+                        "database development",
+                        "multimedia programming",
+                        "integration tests IT",
+                        "IT system monitoring",
+                        "software administration",
+                        "database implementation",
+                        "database languages",
+                        "knowledge management IT",
+                        "application programming",
+                        "office software",
+                        "organisation programming",
+                        "IT project management",
+                        "code documentation",
+                        "software debugging",
+                        "network technology IT",
+                        "IT security concepts",
+                        "script languages",
+                        "module tests",
+                        "structured programming",
+                        "special IT fields",
+                        "ecommerce systems",
+                        "language recognition IT",
+                        "software verification"
+                    ],
+                    [
+                        2,
+                        2,
+                        2,
+                        3,
+                        2,
+                        1,
+                        1,
+                        1,
+                        3,
+                        3,
+                        2,
+                        1,
+                        3,
+                        1,
+                        2,
+                        1,
+                        3,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1,
+                        2,
+                        2,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        3,
+                        1,
+                        1,
+                        1,
+                        2,
+                        2,
+                        1,
+                        1,
+                        1
+                    ]
+                ]
+            ]
+        }
+    ],
+    "job": [
+        {
+            "job category": [
+                "technology and computing",
+                "business and industrial",
+                "software"
+            ],
+            "# jobs": 107,
+            "job distribution": [
+                [
+                    "\"New South Wales\"\"Wollongong, Illawarra & South Coast\"",
+                    1
+                ],
+                [
+                    "\"Queensland\"\"Sunshine Coast\"",
+                    2
+                ],
+                [
+                    "\"New South Wales\"\"Newcastle, Maitland & Hunter\"",
+                    1
+                ],
+                [
+                    "\"Western Australia\"\"Perth\"",
+                    5
+                ],
+                [
+                    "\"Victoria\"\"Melbourne\"",
+                    26
+                ],
+                [
+                    "\"Australian Capital Territory\"\"ACT\"",
+                    7
+                ],
+                [
+                    "\"South Australia\"\"Adelaide\"",
+                    7
+                ],
+                [
+                    "\"Queensland\"\"Gold Coast\"",
+                    2
+                ],
+                [
+                    "\"New South Wales\"\"Gosford & Central Coast\"",
+                    1
+                ],
+                [
+                    "\"New South Wales\"\"Sydney\"",
+                    29
+                ],
+                [
+                    "\"Queensland\"\"Brisbane\"",
+                    26
+                ]
+            ],
+            "job keywords": "software-developer"
+        }
+    ]
+}

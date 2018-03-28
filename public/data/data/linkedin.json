@@ -1,0 +1,173 @@
+{
+    "summary": {
+        "name": "Fortune top 500 Global Companies",
+        "lookup": {
+            "Undefined": "the student is not found",
+            "False": "the student did/does not work in top 500 companies",
+            "True": "the student worked/working in top 500 companies"
+        },
+        "list": [
+            {
+                "name": "Chen ShaoBo",
+                "status": "Undefined"
+            },
+            {
+                "name": "Deodhar Charudatta",
+                "status": "False"
+            
+            },
+            {
+                "name": "Dong YaXing",
+                "status": "Undefined"
+            },
+            {
+                "name": "Gauri",
+                "status": "Undefined"
+            },
+            {
+                "name": "Khandelwal Rupalben",
+                "status": "Undefined"
+            },
+            {
+                "name": "Lakkireddy Ravikumar Reddy",
+                "status": "Undefined"
+            },
+            {
+                "name": "Liaqat Atif",
+                "status": "Undefined"
+            },
+            {
+                "name": "Lin Shaorong",
+                "status": "False"
+            },
+            {
+                "name": "Liu Junyan",
+                "status": "Undefined"
+            },
+            {
+                "name": "Park MunJin",
+                "status": "Undefined"
+            },
+            {
+                "name": "Patel Ankurkumar",
+                "status": "Undefined"
+            },
+            {
+                "name": "Samneet Kaur",
+                "status": "Undefined"
+            },
+            {
+                "name": "Shyam Gireendra",
+                "status": "True"
+            },
+            {
+                "name": "Torato Pauline",
+                "status": "Undefined"
+            },
+            {
+                "name": "Xie Zhenghan",
+                "status": "Undefined"
+            },
+            {
+                "name": "Xue Rui",
+                "status": "Undefined"
+            },
+            {
+                "name": "Yang Yi",
+                "status": "Undefined"
+            }
+        ]
+    },
+    "details": [
+        {
+            "name": "Deodhar Charudatta",
+            "status": "studying/studied in UniSA",
+            "degree": "Master's degree",
+            "working-experience": [
+                {
+                    "company": "Synechron",
+                    "period": "Dec 2016 – Present"
+                },
+                {
+                    "company": "Mindtree",
+                    "period": "Jul 2014 – Nov 2016"
+                }
+            ]
+        },
+        {
+            "name": "Liaqat Atif",
+            "status": "studying/studied in UniSA",
+            "degree": "Masters of Information and Communication Technology",
+            "working-experience": [
+                {
+                    "company": "NEC Australia",
+                    "period": "Apr 2017 – Present"
+                },
+                {
+                    "company": "NEC Australia",
+                    "period": "Feb 2016 – Mar 2017"
+                },
+                {
+                    "company": "NEC Australia",
+                    "period": "Sep 2014 – Jan 2016"
+                },
+                {
+                    "company": "NEC Australia",
+                    "period": "May 2014 – Aug 2014"
+                },
+                {
+                    "company": "NEC Australia",
+                    "period": "Oct 2013 – Aug 2014"
+                }
+            ]
+        },
+        {
+            "name": "Lin Shaorong",
+            "status": "studying/studied in UniSA",
+            "degree": "Master’s Degree",
+            "working-experience": [
+                {
+                    "company": "China Unix User Group (CUUG)",
+                    "period": "Oct 2012 – Jul 2013"
+                },
+                {
+                    "company": "LongCheng municipal engineering pty Ltd",
+                    "period": "Oct 2007 – Nov 2009"
+                }
+            ]
+        },
+        {
+            "name": "Liu Junyan",
+            "status": "studying/studied in UniSA",
+            "degree": "",
+            "working-experience": []
+        },
+        {
+            "name": "Shyam Gireendra",
+            "status": "studying/studied in UniSA",
+            "degree": "Masters in Information and Communication Technology Management",
+            "working-experience": [
+                {
+                    "company": "Vocus Communications",
+                    "period": "Feb 2016 – Present"
+                },
+                {
+                    "company": "M2 Telecommunications Group Ltd",
+                    "period": ""
+                },
+                {
+                    "company": "Dodo Services",
+                    "period": "Mar 2012 – Jul 2014"
+                },
+                {
+                    "company": "HP Australia",
+                    "period": "Feb 2012 – Feb 2012"
+                },
+                {
+                    "company": "IBM (Contract)",
+                    "period": "Oct 2011 – Jan 2012"
+                }
+            ]
+        }
+    ]
+}

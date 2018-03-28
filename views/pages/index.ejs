@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <% include ../partials/head %>
+
+<body>
+
+    <% include ../partials/header %>
+
+    <!-- WRAPPER-->
+    <div id="wrapper-content">
+        <!-- PAGE WRAPPER-->
+        <div id="page-wrapper">
+            <!-- MAIN CONTENT-->
+            <div class="main-content">
+                <!-- CONTENT-->
+                <div class="content">
+                    <div class="section background-opacity page-title set-height-top">
+                        <div class="container">
+                            <div class="page-title-wrapper">
+                                <h2 class="captions">Employability Study Summary</h2>
+                                <ol class="breadcrumb">
+                                    <li>
+                                        <a href="">Program</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Jobs</a>
+                                    </li>
+                                    <li>
+                                        <a href="">LinkedIn profiles</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Summary</a>
+                                    </li>
+                                    <li>
+                                        <a href="">Progress</a>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- PROGRESS BARS-->
+                    <div class="section progress-bars section-padding">
+                        <div class="container">
+                            <div class="progress-bars-content">
+                                <div class="progress-bar-wrapper">
+                                    <h2 class="title-2">EMPLOYABILITY STUDY Important facts</h2>
+                    
+                                    <div class="row">
+                                        <div class="content">
+                                            <div class="col-sm-4">
+                                                <div class="progress-bar-number">
+                                                    <div data-from="0" data-to="45" data-speed="1000" class="num">0</div>
+                                                    <p class="name-inner">Total Programs</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="progress-bar-number">
+                                                    <div data-from="0" data-to="56" data-speed="1000" class="num">0</div>
+                                                    <p class="name-inner">Total jobs</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-4">
+                                                <div class="progress-bar-number">
+                                                    <div data-from="0" data-to="165" data-speed="1000" class="num">0</div>
+                                                    <p class="name-inner">LinkedIn Profiles</p>
+                                                </div>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- show program  -->
+                    <div class="section">
+                        <div class="search-input">
+                            <div class="container">
+                                <div class="search-input-wrapper">
+                                    <form>
+                                        <select class="form-select style-1 selectbox">
+                                            <option value="all">Choose Programs</option>
+                                            <option value="languages">{Programs name 1}</option>
+                                            <option value="science">{Programs name 2}</option>
+                                            <option value="science">{Programs name 3}</option>
+                                        </select>
+                                        <button type="submit" class="form-submit btn btn-blue">
+                                            <span>Show Summary
+                                                <i class="fa fa-search"></i>
+                                            </span>
+                                        </button>
+                                        <div class="clearfix"></div>
+                                    </form>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- show course information  -->
+                    <div class="section section-padding-modified">
+                        <div class="container">
+                            <h1 class="course-title" id="program-name"></h1>
+                    
+                            <div class="course-info info">
+                                <div class="date-time item">
+                                    <a href="#" id="current-date"></a>
+                                </div>
+                            </div>
+                    
+                        </div>
+                    </div>
+
+                    <!-- total number of course -->
+                    <div class="section section-padding-modified">
+                        <div class="container">
+                            <div class="courses-detail-wrapper">
+                                <div class="row">
+                    
+                    
+                                    <div class="col-md-9">
+                    
+                                        <div class="col-md-12 layout-left">
+                                            <div class="course-syllabus">
+                                                <div class="course-syllabus-title underline" id="total-number-of-course"></div>
+                                            </div>
+                                        </div>
+
+                                        
+                    
+                                        <div class="col-md-12 layout-left">
+
+                                            <div id="accordion-program-1" class="panel-group accordion">
+                                                <div class="panel">
+                                                    <div class="panel-heading">
+                                                        <h5 class="panel-title">
+                                                            <a data-toggle="collapse" data-parent="#accordion-program-1" href="#collapse-program-1-1" aria-expanded="true" class="accordion-toggle">
+                                                                Course details</a>
+                                                        </h5>
+                                                    </div>
+                                                    <div id="collapse-program-1-1" aria-expanded="true" style="" class="panel-collapse collapse in">
+                                                        <div class="panel-body">
+
+                                                            <div class="outer-container">
+                                                                <div class="inner-container">
+                                                                    <div class="table-header">
+                                                                        <table class="edu-table-responsive">
+                                                                            <thead>
+                                                                                <tr class="heading-table">
+                                                                                    <th class="col-2">Course Number</th>
+                                                                                    <th class="col-1">Course Name</th>
+                                                                                </tr>
+                                                                            </thead>
+                                                                        </table>
+                                                                    </div>
+                                                                    <div class="table-body">
+                                                                        <table class="edu-table-responsive table-hover">
+                                                                            <tbody id="program-table">
+                                                    
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                    
+
+                                        </div>
+                    
+                                    </div>
+                    
+                                    <div class="col-md-3">
+                                        <div class="underline">Program Category </div>
+                                        <div id="program-category"></div>
+                                    </div>
+                    
+                    
+                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- total nubmer of job -->
+                    <div class="section section-padding">
+                        <div class="container">
+
+                            <div class="accordion-faq">
+                                <div class="row">
+                                    <div class="col-md-9">
+                                        <div class="underline" id="total-number-of-job"></div>
+                                        <div id="accordion-1" class="panel-group accordion">
+                                            <div class="panel">
+                                                <div class="panel-heading">
+                                                    <h5 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-1" aria-expanded="true" class="accordion-toggle"> Job distribution by job classification</a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse-1-1" aria-expanded="true" class="panel-collapse collapse in">
+                                                    <div class="panel-body">
+                                                    
+                                                        <div class="ct-chart ct-perfect-fourth" id="job-classification"></div>
+                                                    
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="panel">
+                                                <div class="panel-heading">
+                                                    <h5 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion-1" href="#collapse-1-2" aria-expanded="true" class="accordion-toggle collapsed">Job distribution by states</a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse-1-2" aria-expanded="true" class="panel-collapse collapse">
+                                                    <div class="panel-body">
+                                                        <div class="ct-chart ct-perfect-fourth" id="job-states"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="underline">Job category </div>
+                                        <div id="job-category"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- LinkedIn  -->
+                    <div class="section section-padding">
+                        <div class="container">
+
+                            <div class="accordion-faq">
+                                <div class="row">
+                                    <div class="col-md-9">
+                                        <div class="underline" id="total-number-of-linkedin"></div>
+                                        <div id="accordion-linkedin-1" class="panel-group accordion">
+                                            <div class="panel">
+                                                <div class="panel-heading">
+                                                    <h5 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion-linkedin-1" href="#collapse-linkedin-1-1" aria-expanded="false" class="accordion-toggle collapsed" >
+                                                            LinkedIn Profiles</a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse-linkedin-1-1" aria-expanded="false" style="height: 0px;" class="panel-collapse collapse">
+                                                    <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu tellus ipsum. Nunc maximus sapien ac dui vulputate
+                                                        tincidunt. Morbi luctus nisi vel suscipit volutpat. Donec vitae auctor nisl. Ut malesuada felis in erat rutrum
+                                                        ultrices. Fusce iaculis ornare nunc rutrum ornare.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3">
+                                        <div class="underline">Fortune top 500</div>
+
+                                        <div class="ct-chart ct-perfect-fourth" id="fortune-500-chart"></div>
+
+                                    </div>
+
+                            
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+                    <!-- matching summary -->
+                    <div class="section section-padding">
+                        <div class="container">
+
+                            <div class="accordion-faq">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <div class="underline">Skill matching analysis summary</div>
+                                        <div id="accordion-skill-1" class="panel-group accordion">
+                                            <div class="panel">
+                                                <div class="panel-heading">
+                                                    <h5 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion-skill-1" href="#collapse-skill-1-1" aria-expanded="false" class="accordion-toggle collapsed">
+                                                            Matched hard skills (Overall)</a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse-skill-1-1" aria-expanded="false" style="height: 0px;" class="panel-collapse collapse">
+                                                    <div class="panel-body">
+                                            
+                                                        <div class="outer-container">
+                                                            <div class="inner-container">
+                                                                <div class="table-header">
+                                                                    <table class="edu-table-responsive">
+                                                                        <thead>
+                                                                            <tr class="heading-table">
+                                                                                <th class="col-1">title</th>
+                                                                                <th class="col-2">Competency level</th>
+                                                                            </tr>
+                                                                        </thead>
+                                                                    </table>
+                                                                </div>
+                                                                <div class="table-body">
+                                                                    <table class="edu-table-responsive table-hover">
+                                                                        <tbody>
+                                                                            <tr class="table-row">
+                                                                                <td class="left col-1">
+                                                                                    <span>system integration</span>
+                                                                                </td>
+                                                                                <td class="col-2">
+                                                                                    <div class="bg-yellow">beyond</div>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr class="table-row">
+                                                                                <td class="left col-1">
+                                                                                    <span>software design</span>
+                                                                                </td>
+                                                                                <td class="col-2">
+                                                                                    <div class="bg-green">neutral</div>
+                                                                                </td>
+                                                                            </tr>
+                                            
+                                                                        </tbody>
+                                                                    </table>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                            
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="panel">
+                                                <div class="panel-heading">
+                                                    <h5 class="panel-title">
+                                                        <a data-toggle="collapse" data-parent="#accordion-skill-1" href="#collapse-skill-1-2" aria-expanded="true" class="accordion-toggle collapsed">
+                                                            Unmatched hard skills (Overall)</a>
+                                                    </h5>
+                                                </div>
+                                                <div id="collapse-skill-1-2" aria-expanded="true" class="panel-collapse collapse">
+                                                    <div class="panel-body"> 
+
+                                                        <div class="outer-container">
+                                                            <div class="inner-container">
+                                                                <div class="table-header">
+                                                                    <table class="edu-table-responsive">
+                                                                        <thead>
+                                                                            <tr class="heading-table">
+                                                                                <th class="col-1">title</th>
+                                                                                <th class="col-2">Competency level</th>
+                                                                            </tr>
+                                                                        </thead>
+                                                                    </table>
+                                                                </div>
+                                                                <div class="table-body">
+                                                                    <table class="edu-table-responsive table-hover">
+                                                                        <tbody>
+
+                                                                            <tr class="table-row">
+                                                                                <td class="left col-1">
+                                                                                    <span>ASP</span>
+                                                                                </td>
+                                                                                <td class="col-2">
+                                                                                    <div class="bg-red">Unmatched</div>
+                                                                                </td>
+                                                                            </tr>
+                                                        
+                                                                        </tbody>
+                                                                    </table>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            
+                            
+                                </div>
+                            </div>
+                            
+
+
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- BUTTON BACK TO TOP-->
+        <div id="back-top">
+            <a href="#top">
+                <i class="fa fa-angle-double-up"></i>
+            </a>
+        </div>
+    </div>
+
+</body>
+
+    <% include ../partials/scripts %>
+
+    <!-- MAIN JS-->
+    <script src="/public/js/main.js"></script>
+
+
+
+</html>

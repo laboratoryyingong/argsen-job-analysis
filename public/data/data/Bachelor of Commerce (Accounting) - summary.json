@@ -1,0 +1,3786 @@
+{
+    "Program": [
+        {
+            "Program category": [
+                "career planning",
+                "business and industrial",
+                "education",
+                "careers",
+                "school"
+            ],
+            "Program name": "Bachelor of Commerce (Accounting)",
+            "The list of course names": [
+                "Strategic Financial Analysis",
+                "Auditing Theory and Practice",
+                "Principles of Economics",
+                "Cost Management and Control Systems",
+                "Contemporary Issues in Accounting",
+                "Business Finance",
+                "Financial Accounting 1",
+                "Taxation Law 1",
+                "Management Accounting",
+                "Sustainability Accounting and Reporting",
+                "Accounting for Business",
+                "Financial Accounting 3",
+                "Financial Accounting 2",
+                "Companies and Partnership Law",
+                "Business Law",
+                "Business Intelligence",
+                "Quantitative Methods for Business",
+                "Marketing Principles: Trading and Exchange",
+                "Management and Organisation",
+                "Business and Society",
+                "Program Statement"
+            ],
+            "The number of courses in the program": 21
+        }
+    ],
+    "Job": [
+        {
+            "job category": "healthcare medical",
+            "The total number of jobs": 110,
+            "Job distribution by job classification": [
+                [
+                    "Payroll",
+                    12
+                ],
+                [
+                    "Accounts Officers\\ Clerks",
+                    13
+                ],
+                [
+                    "Compliance & Risk",
+                    2
+                ],
+                [
+                    "Accounts Receivable\\ Credit Control",
+                    3
+                ],
+                [
+                    "Accounts Payable",
+                    6
+                ],
+                [
+                    "Management Accounting & Budgeting",
+                    8
+                ],
+                [
+                    "Financial Managers & Controllers",
+                    8
+                ],
+                [
+                    "Assistant Accountants",
+                    5
+                ],
+                [
+                    "Financial Accounting & Reporting",
+                    24
+                ],
+                [
+                    "Insolvency & Corporate Recovery",
+                    1
+                ],
+                [
+                    "Management",
+                    1
+                ],
+                [
+                    "Analysis & Reporting",
+                    5
+                ],
+                [
+                    "Taxation",
+                    5
+                ],
+                [
+                    "Strategy & Planning",
+                    2
+                ],
+                [
+                    "Bookkeeping & Small Practice Accounting",
+                    6
+                ],
+                [
+                    "Business Services & Corporate Advisory",
+                    9
+                ]
+            ],
+            "Job distribution by states": [
+                [
+                    "\"Australian Capital Territory\"",
+                    3
+                ],
+                [
+                    "\"New South Wales\"",
+                    50
+                ],
+                [
+                    "\"Western Australia\"",
+                    7
+                ],
+                [
+                    "\"South Australia\"",
+                    8
+                ],
+                [
+                    "\"Queensland\"",
+                    6
+                ],
+                [
+                    "\"Victoria\"",
+                    36
+                ]
+            ]
+        }
+    ],
+    "Matching": [
+        {
+            "Hard skills": {
+                "Matched hard skills (Overall)": [
+                    [
+                        "finance and accountancy",
+                        11,
+                        0.1693138227513227
+                    ],
+                    [
+                        "organisation development",
+                        2,
+                        -0.0380952380952381
+                    ],
+                    [
+                        "contacts",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "annual accounts",
+                        10,
+                        0.03650992063492063
+                    ],
+                    [
+                        "import",
+                        4,
+                        0.06250000000000003
+                    ],
+                    [
+                        "balancing of an account",
+                        33,
+                        0.032447420634920635
+                    ],
+                    [
+                        "futures",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "local government",
+                        2,
+                        0.09583333333333334
+                    ],
+                    [
+                        "controlling",
+                        20,
+                        -0.14865704665704665
+                    ],
+                    [
+                        "financial accounting",
+                        186,
+                        -0.1834656472559698
+                    ],
+                    [
+                        "operations management",
+                        2,
+                        0.0
+                    ],
+                    [
+                        "financial planning",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "account management",
+                        16,
+                        -0.0751209372637944
+                    ],
+                    [
+                        "business intelligence",
+                        15,
+                        0.11731481481481483
+                    ],
+                    [
+                        "information processing",
+                        1,
+                        0.125
+                    ],
+                    [
+                        "information",
+                        48,
+                        0.054166666666666655
+                    ],
+                    [
+                        "financial statements",
+                        30,
+                        0.03934523809523808
+                    ],
+                    [
+                        "performance review",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "regulatory reporting",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "financial controlling",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "liquidity management",
+                        1,
+                        0.0
+                    ],
+                    [
+                        "management",
+                        307,
+                        0.03063414759843332
+                    ],
+                    [
+                        "accounts receivable accounting",
+                        60,
+                        -0.0656345785440613
+                    ],
+                    [
+                        "business management",
+                        13,
+                        0.27738095238095234
+                    ],
+                    [
+                        "budgeting",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "reporting",
+                        62,
+                        0.00201612903225805
+                    ],
+                    [
+                        "product management",
+                        2,
+                        0.0
+                    ],
+                    [
+                        "team management",
+                        3,
+                        -0.32222222222222224
+                    ],
+                    [
+                        "accounts payable accounting",
+                        130,
+                        -0.21233623321123327
+                    ],
+                    [
+                        "financial analysis",
+                        8,
+                        -0.20029761904761903
+                    ],
+                    [
+                        "cash management",
+                        7,
+                        -0.12380952380952383
+                    ],
+                    [
+                        "asset management",
+                        1,
+                        -0.06818181818181818
+                    ],
+                    [
+                        "group controlling",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "trade",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "marketing",
+                        64,
+                        0.023014322916666673
+                    ],
+                    [
+                        "accounts receivable management",
+                        6,
+                        0.003968253968253972
+                    ],
+                    [
+                        "finance, accountancy and management accounting",
+                        28,
+                        -0.026651721294578438
+                    ],
+                    [
+                        "key account management",
+                        3,
+                        0.08730158730158731
+                    ],
+                    [
+                        "property management",
+                        1,
+                        -0.05000000000000002
+                    ],
+                    [
+                        "risk management",
+                        5,
+                        -0.26888888888888896
+                    ]
+                ],
+                "Matched hard skills (by classification of jobs)": [
+                    [
+                        "Payroll",
+                        [
+                            [
+                                "finance, accountancy and management accounting",
+                                2,
+                                -0.07882395382395381
+                            ],
+                            [
+                                "information",
+                                4,
+                                0.1875
+                            ],
+                            [
+                                "accounts payable accounting",
+                                60,
+                                -0.4359900793650794
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Accounts Officers\\ Clerks",
+                        [
+                            [
+                                "accounts receivable accounting",
+                                30,
+                                -0.0143608276643991
+                            ],
+                            [
+                                "management",
+                                20,
+                                0.04133597883597883
+                            ],
+                            [
+                                "reporting",
+                                10,
+                                -0.0025000000000000187
+                            ],
+                            [
+                                "cash management",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "accounts receivable management",
+                                4,
+                                -0.012698412698412695
+                            ],
+                            [
+                                "product management",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts payable accounting",
+                                30,
+                                -0.09682341269841271
+                            ],
+                            [
+                                "property management",
+                                1,
+                                -0.05000000000000002
+                            ],
+                            [
+                                "information",
+                                8,
+                                -0.06249999999999999
+                            ],
+                            [
+                                "controlling",
+                                8,
+                                0.029100529100529102
+                            ]
+                        ]
+                    ],
+                    [
+                        "Compliance & Risk",
+                        [
+                            [
+                                "reporting",
+                                4,
+                                0.07749999999999999
+                            ],
+                            [
+                                "risk management",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Accounts Receivable\\ Credit Control",
+                        [
+                            [
+                                "accounts receivable accounting",
+                                20,
+                                -0.18849007936507933
+                            ],
+                            [
+                                "management",
+                                13,
+                                -0.3669312169312169
+                            ],
+                            [
+                                "operations management",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                4,
+                                0.07749999999999999
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                2,
+                                0.05753968253968254
+                            ],
+                            [
+                                "organisation development",
+                                2,
+                                -0.0380952380952381
+                            ],
+                            [
+                                "accounts receivable management",
+                                1,
+                                -0.012698412698412695
+                            ],
+                            [
+                                "accounts payable accounting",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "risk management",
+                                1,
+                                -0.4777777777777778
+                            ]
+                        ]
+                    ],
+                    [
+                        "Accounts Payable",
+                        [
+                            [
+                                "management",
+                                13,
+                                0.1330687830687831
+                            ],
+                            [
+                                "reporting",
+                                8,
+                                -0.3575
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "import",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "information",
+                                8,
+                                0.1875
+                            ],
+                            [
+                                "information processing",
+                                1,
+                                0.125
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management Accounting & Budgeting",
+                        [
+                            [
+                                "regulatory reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial accounting",
+                                12,
+                                -0.04474888392857143
+                            ],
+                            [
+                                "trade",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "liquidity management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                13,
+                                0.1330687830687831
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                4,
+                                0.05753968253968254
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "account management",
+                                16,
+                                -0.0751209372637944
+                            ],
+                            [
+                                "team management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "financial analysis",
+                                2,
+                                -0.004464285714285714
+                            ],
+                            [
+                                "controlling",
+                                4,
+                                -0.1308994708994709
+                            ]
+                        ]
+                    ],
+                    [
+                        "Financial Managers & Controllers",
+                        [
+                            [
+                                "group controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                34,
+                                0.004313371813371823
+                            ],
+                            [
+                                "reporting",
+                                6,
+                                0.04416666666666665
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "key account management",
+                                2,
+                                0.08730158730158731
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "annual accounts",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "team management",
+                                1,
+                                -0.16666666666666666
+                            ],
+                            [
+                                "information",
+                                4,
+                                0.1875
+                            ],
+                            [
+                                "controlling",
+                                4,
+                                -0.26635401635401634
+                            ]
+                        ]
+                    ],
+                    [
+                        "Assistant Accountants",
+                        [
+                            [
+                                "finance and accountancy",
+                                11,
+                                0.1693138227513227
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                20,
+                                0.13161375661375663
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                2,
+                                0.05753968253968254
+                            ],
+                            [
+                                "reporting",
+                                10,
+                                0.07749999999999999
+                            ],
+                            [
+                                "team management",
+                                1,
+                                -0.8
+                            ],
+                            [
+                                "local government",
+                                2,
+                                0.09583333333333334
+                            ]
+                        ]
+                    ],
+                    [
+                        "Financial Accounting & Reporting",
+                        [
+                            [
+                                "group controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial accounting",
+                                174,
+                                -0.19303232058889383
+                            ],
+                            [
+                                "trade",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                70,
+                                -0.04368799603174604
+                            ],
+                            [
+                                "operations management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                14,
+                                0.03464285714285712
+                            ],
+                            [
+                                "marketing",
+                                44,
+                                -0.0009440104166666546
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                18,
+                                -0.05827320827320828
+                            ],
+                            [
+                                "futures",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "import",
+                                1,
+                                -0.03749999999999998
+                            ],
+                            [
+                                "risk management",
+                                4,
+                                -0.2166666666666667
+                            ],
+                            [
+                                "balancing of an account",
+                                33,
+                                0.032447420634920635
+                            ],
+                            [
+                                "financial analysis",
+                                4,
+                                -0.2044642857142857
+                            ],
+                            [
+                                "cash management",
+                                4,
+                                -0.2166666666666667
+                            ],
+                            [
+                                "information",
+                                8,
+                                -0.0625
+                            ],
+                            [
+                                "financial statements",
+                                20,
+                                -0.0006547619047619184
+                            ],
+                            [
+                                "performance review",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "asset management",
+                                1,
+                                -0.06818181818181818
+                            ]
+                        ]
+                    ],
+                    [
+                        "Insolvency & Corporate Recovery",
+                        [
+                            [
+                                "management",
+                                13,
+                                0.1330687830687831
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            [
+                                "reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "controlling",
+                                4,
+                                -0.40423280423280417
+                            ],
+                            [
+                                "management",
+                                13,
+                                0.1330687830687831
+                            ],
+                            [
+                                "business intelligence",
+                                15,
+                                0.11731481481481483
+                            ]
+                        ]
+                    ],
+                    [
+                        "Analysis & Reporting",
+                        [
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "key account management",
+                                1,
+                                0.08730158730158731
+                            ],
+                            [
+                                "import",
+                                1,
+                                0.36250000000000004
+                            ],
+                            [
+                                "financial analysis",
+                                2,
+                                -0.387797619047619
+                            ],
+                            [
+                                "cash management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "information",
+                                8,
+                                0.08749999999999998
+                            ]
+                        ]
+                    ],
+                    [
+                        "Taxation",
+                        [
+                            [
+                                "marketing",
+                                11,
+                                0.07093098958333334
+                            ],
+                            [
+                                "financial statements",
+                                10,
+                                0.11934523809523809
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Strategy & Planning",
+                        [
+                            [
+                                "management",
+                                26,
+                                0.1330687830687831
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                2,
+                                0.07749999999999999
+                            ],
+                            [
+                                "marketing",
+                                9,
+                                0.07093098958333334
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "import",
+                                1,
+                                -0.03749999999999998
+                            ],
+                            [
+                                "information",
+                                4,
+                                -0.2125
+                            ]
+                        ]
+                    ],
+                    [
+                        "Bookkeeping & Small Practice Accounting",
+                        [
+                            [
+                                "financial controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts receivable accounting",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "management",
+                                7,
+                                0.1453703703703704
+                            ],
+                            [
+                                "operations management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts receivable management",
+                                1,
+                                0.08730158730158731
+                            ],
+                            [
+                                "accounts payable accounting",
+                                30,
+                                0.036509920634920645
+                            ]
+                        ]
+                    ],
+                    [
+                        "Business Services & Corporate Advisory",
+                        [
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                65,
+                                0.03468494468494468
+                            ],
+                            [
+                                "business management",
+                                13,
+                                0.27738095238095234
+                            ],
+                            [
+                                "reporting",
+                                4,
+                                0.1775
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "import",
+                                1,
+                                -0.03749999999999998
+                            ],
+                            [
+                                "information",
+                                4,
+                                0.1875
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by states of jobs)": [
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "finance and accountancy",
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "general ledger accounting",
+                            "accounts receivable and accounts payable accounting",
+                            "real estate",
+                            "relocation",
+                            "local government",
+                            "clearing",
+                            "invoicing",
+                            "operations management",
+                            "community management Internet",
+                            "sales",
+                            "business intelligence",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "calculation",
+                            "fixed asset accounting",
+                            "product range management",
+                            "human resource management",
+                            "team management",
+                            "conducting job interviews",
+                            "organisation of sales campaigns",
+                            "negotiating",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            "real estate management",
+                            "profit and loss account",
+                            " meetings , ",
+                            "supply of temporary workers",
+                            "training",
+                            "real estate conception"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "invoicing",
+                            "community management Internet",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "management of financial investments",
+                            "annual accounts",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "accounts receivable and accounts payable accounting",
+                            "real estate",
+                            "import",
+                            "relocation",
+                            "futures",
+                            "clearing",
+                            "invoicing",
+                            "community management Internet",
+                            "account management",
+                            "sales",
+                            "business intelligence",
+                            "calculation",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "information processing",
+                            "performance review",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "budgeting",
+                            "liquidity management",
+                            "product range management",
+                            "business management",
+                            "product management",
+                            "human resource management",
+                            "conducting job interviews",
+                            "organisation of sales campaigns",
+                            "negotiating",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "tendering",
+                            "credit card statements",
+                            "real estate management",
+                            "profit and loss account",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers",
+                            "training",
+                            "real estate conception"
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (Overall)": [
+                    "cash flow statement",
+                    "real estate advice",
+                    "balance sheet analysis",
+                    "management of financial investments",
+                    "general ledger accounting",
+                    "accounts receivable and accounts payable accounting",
+                    "real estate",
+                    "relocation",
+                    "clearing",
+                    "invoicing",
+                    "community management Internet",
+                    "sales",
+                    "real estate leasing",
+                    "cash and liquidity management",
+                    "calculation",
+                    "fixed asset accounting",
+                    "product range management",
+                    "human resource management",
+                    "conducting job interviews",
+                    "organisation of sales campaigns",
+                    "negotiating",
+                    "process efficiency controlling",
+                    "balance sheet accounting",
+                    "tendering",
+                    "credit card statements",
+                    "real estate management",
+                    "profit and loss account",
+                    " meetings , ",
+                    "supply of temporary workers",
+                    "training",
+                    "real estate conception"
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Payroll",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "reporting",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Accounts Officers\\ Clerks",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "liquidity management",
+                            "product range management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Compliance & Risk",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Accounts Receivable\\ Credit Control",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "real estate management",
+                            "profit and loss account",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Accounts Payable",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Management Accounting & Budgeting",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "invoicing",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "operations management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "accounts payable accounting",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Financial Managers & Controllers",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Assistant Accountants",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Financial Accounting & Reporting",
+                        [
+                            "finance and accountancy",
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "general ledger accounting",
+                            "accounts receivable and accounts payable accounting",
+                            "real estate",
+                            "relocation",
+                            "local government",
+                            "controlling",
+                            "clearing",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "account management",
+                            "sales",
+                            "business intelligence",
+                            "calculation",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "information processing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "business management",
+                            "product management",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "conducting job interviews",
+                            "organisation of sales campaigns",
+                            "negotiating",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "accounts receivable management",
+                            "key account management",
+                            "tendering",
+                            "credit card statements",
+                            "real estate management",
+                            "profit and loss account",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers",
+                            "training",
+                            "real estate conception"
+                        ]
+                    ],
+                    [
+                        "Insolvency & Corporate Recovery",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "reporting",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Analysis & Reporting",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "reporting",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Taxation",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "reporting",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Strategy & Planning",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "budgeting",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Bookkeeping & Small Practice Accounting",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "import",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "contacts",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "business management",
+                            "reporting",
+                            "human resource management",
+                            "team management",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ],
+                    [
+                        "Business Services & Corporate Advisory",
+                        [
+                            "cash flow statement",
+                            "real estate advice",
+                            "balance sheet analysis",
+                            "general ledger accounting",
+                            "balancing of an account",
+                            "real estate",
+                            "relocation",
+                            "futures",
+                            "controlling",
+                            "invoicing",
+                            "financial planning",
+                            "community management Internet",
+                            "business intelligence",
+                            "calculation",
+                            "information processing",
+                            "financial statements",
+                            "performance review",
+                            "financial controlling",
+                            "accounts receivable accounting",
+                            "liquidity management",
+                            "product range management",
+                            "product management",
+                            "conducting job interviews",
+                            "negotiating",
+                            "trade",
+                            "finance, accountancy and management accounting",
+                            "accounts receivable management",
+                            "real estate management",
+                            "profit and loss account",
+                            "risk management",
+                            "training",
+                            "real estate conception",
+                            "finance and accountancy",
+                            "organisation development",
+                            "management of financial investments",
+                            "annual accounts",
+                            "accounts receivable and accounts payable accounting",
+                            "local government",
+                            "clearing",
+                            "financial accounting",
+                            "operations management",
+                            "account management",
+                            "sales",
+                            "cash and liquidity management",
+                            "real estate leasing",
+                            "regulatory reporting",
+                            "fixed asset accounting",
+                            "human resource management",
+                            "team management",
+                            "accounts payable accounting",
+                            "financial analysis",
+                            "cash management",
+                            "organisation of sales campaigns",
+                            "asset management",
+                            "group controlling",
+                            "process efficiency controlling",
+                            "balance sheet accounting",
+                            "marketing",
+                            "tendering",
+                            "key account management",
+                            "credit card statements",
+                            " meetings , ",
+                            "property management",
+                            "supply of temporary workers"
+                        ]
+                    ]
+                ],
+                "Matched hard skills (by states of jobs)": [
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            [
+                                "reporting",
+                                4,
+                                -0.07250000000000004
+                            ],
+                            [
+                                "financial accounting",
+                                36,
+                                -0.048061755952380956
+                            ],
+                            [
+                                "accounts payable accounting",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "management",
+                                26,
+                                -0.016931216931216946
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                4,
+                                -0.1424603174603175
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "import",
+                                3,
+                                -0.03749999999999998
+                            ],
+                            [
+                                "balancing of an account",
+                                33,
+                                0.032447420634920635
+                            ],
+                            [
+                                "futures",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "controlling",
+                                12,
+                                -0.024232804232804234
+                            ],
+                            [
+                                "financial accounting",
+                                66,
+                                -0.40564123376623384
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "account management",
+                                16,
+                                -0.0751209372637944
+                            ],
+                            [
+                                "information processing",
+                                1,
+                                0.125
+                            ],
+                            [
+                                "information",
+                                28,
+                                -0.041071428571428585
+                            ],
+                            [
+                                "financial statements",
+                                20,
+                                0.11101190476190476
+                            ],
+                            [
+                                "performance review",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "regulatory reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "financial controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "liquidity management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                155,
+                                0.0012026705688677412
+                            ],
+                            [
+                                "accounts receivable accounting",
+                                20,
+                                -0.23706679894179894
+                            ],
+                            [
+                                "business management",
+                                13,
+                                0.27738095238095234
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                44,
+                                0.06386363636363633
+                            ],
+                            [
+                                "product management",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "accounts payable accounting",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "financial analysis",
+                                4,
+                                -0.19613095238095235
+                            ],
+                            [
+                                "cash management",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "asset management",
+                                1,
+                                -0.06818181818181818
+                            ],
+                            [
+                                "group controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "trade",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "marketing",
+                                42,
+                                0.07093098958333333
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                8,
+                                -0.015376984126984128
+                            ],
+                            [
+                                "accounts receivable management",
+                                2,
+                                -0.1126984126984127
+                            ],
+                            [
+                                "property management",
+                                1,
+                                -0.05000000000000002
+                            ],
+                            [
+                                "risk management",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                7,
+                                0.1453703703703704
+                            ],
+                            [
+                                "reporting",
+                                2,
+                                0.07749999999999999
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts payable accounting",
+                                60,
+                                -0.3801567460317461
+                            ],
+                            [
+                                "information",
+                                4,
+                                0.1875
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "management",
+                                13,
+                                0.1330687830687831
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "key account management",
+                                1,
+                                0.08730158730158731
+                            ],
+                            [
+                                "import",
+                                1,
+                                0.36250000000000004
+                            ],
+                            [
+                                "team management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "business intelligence",
+                                15,
+                                0.11731481481481483
+                            ],
+                            [
+                                "cash management",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "information",
+                                4,
+                                0.1875
+                            ],
+                            [
+                                "controlling",
+                                4,
+                                -0.40423280423280417
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "accounts receivable accounting",
+                                20,
+                                0.03650992063492063
+                            ],
+                            [
+                                "management",
+                                7,
+                                0.12870370370370368
+                            ],
+                            [
+                                "budgeting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "reporting",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts receivable management",
+                                2,
+                                0.08730158730158731
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                6,
+                                0.05753968253968255
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "annual accounts",
+                                10,
+                                0.03650992063492063
+                            ],
+                            [
+                                "accounts payable accounting",
+                                20,
+                                -0.16349007936507937
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "finance and accountancy",
+                                11,
+                                0.1693138227513227
+                            ],
+                            [
+                                "organisation development",
+                                2,
+                                -0.0380952380952381
+                            ],
+                            [
+                                "contacts",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "local government",
+                                2,
+                                0.09583333333333334
+                            ],
+                            [
+                                "controlling",
+                                4,
+                                -0.26635401635401634
+                            ],
+                            [
+                                "financial accounting",
+                                84,
+                                -0.06692935412801485
+                            ],
+                            [
+                                "operations management",
+                                2,
+                                0.0
+                            ],
+                            [
+                                "financial planning",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "information",
+                                12,
+                                0.18749999999999997
+                            ],
+                            [
+                                "financial statements",
+                                10,
+                                -0.10398809523809525
+                            ],
+                            [
+                                "financial controlling",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "accounts receivable accounting",
+                                20,
+                                -0.013490079365079366
+                            ],
+                            [
+                                "management",
+                                99,
+                                0.06190957190957191
+                            ],
+                            [
+                                "reporting",
+                                12,
+                                -0.21250000000000002
+                            ],
+                            [
+                                "team management",
+                                2,
+                                -0.48333333333333334
+                            ],
+                            [
+                                "accounts payable accounting",
+                                30,
+                                -0.075156746031746
+                            ],
+                            [
+                                "financial analysis",
+                                4,
+                                -0.2044642857142857
+                            ],
+                            [
+                                "cash management",
+                                4,
+                                -0.2166666666666667
+                            ],
+                            [
+                                "trade",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "marketing",
+                                22,
+                                -0.07281901041666665
+                            ],
+                            [
+                                "finance, accountancy and management accounting",
+                                10,
+                                -0.03986291486291486
+                            ],
+                            [
+                                "accounts receivable management",
+                                2,
+                                0.03730158730158731
+                            ],
+                            [
+                                "key account management",
+                                2,
+                                0.08730158730158731
+                            ],
+                            [
+                                "risk management",
+                                5,
+                                -0.26888888888888896
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "Soft skills": {
+                "Matched soft skills (by classification of jobs)": [
+                    [
+                        "Payroll",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                15,
+                                -0.029669349747474743
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                4,
+                                -0.20374999999999996
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Accounts Officers\\ Clerks",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                26,
+                                -0.06790178571428573
+                            ],
+                            [
+                                "COMMUNICATION",
+                                5,
+                                -0.05825520833333335
+                            ],
+                            [
+                                "COURTESY",
+                                12,
+                                -0.10555555555555554
+                            ]
+                        ]
+                    ],
+                    [
+                        "Compliance & Risk",
+                        []
+                    ],
+                    [
+                        "Accounts Receivable\\ Credit Control",
+                        [
+                            [
+                                "FLEXIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                2,
+                                0.18333333333333332
+                            ]
+                        ]
+                    ],
+                    [
+                        "Accounts Payable",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                15,
+                                -0.08936631944444447
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management Accounting & Budgeting",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                5,
+                                -0.12825520833333334
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                39,
+                                -0.07456845238095237
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Financial Managers & Controllers",
+                        [
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                2,
+                                -0.24999999999999997
+                            ]
+                        ]
+                    ],
+                    [
+                        "Assistant Accountants",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Financial Accounting & Reporting",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                10,
+                                -0.05575520833333335
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                39,
+                                -0.08774305555555556
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                8,
+                                0.18333333333333332
+                            ]
+                        ]
+                    ],
+                    [
+                        "Insolvency & Corporate Recovery",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                13,
+                                0.0920982142857143
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Analysis & Reporting",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                26,
+                                0.0920982142857143
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Taxation",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                4,
+                                0.18333333333333332
+                            ]
+                        ]
+                    ],
+                    [
+                        "Strategy & Planning",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                5,
+                                -0.294921875
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Bookkeeping & Small Practice Accounting",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                26,
+                                0.0920982142857143
+                            ],
+                            [
+                                "COURTESY",
+                                12,
+                                -0.22222222222222224
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                4,
+                                -0.01666666666666669
+                            ]
+                        ]
+                    ],
+                    [
+                        "Business Services & Corporate Advisory",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Payroll",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Accounts Officers\\ Clerks",
+                        [
+                            "SELFMANAGEMENT",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP"
+                        ]
+                    ],
+                    [
+                        "Compliance & Risk",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "COMMUNICATION",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "EXPERIENCES",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Accounts Receivable\\ Credit Control",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "EXPERIENCES",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "Accounts Payable",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Management Accounting & Budgeting",
+                        [
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Financial Managers & Controllers",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "EXPERIENCES",
+                            "FLEXIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "Assistant Accountants",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Financial Accounting & Reporting",
+                        [
+                            "COURTESY",
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP"
+                        ]
+                    ],
+                    [
+                        "Insolvency & Corporate Recovery",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "COMMUNICATION",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Analysis & Reporting",
+                        [
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Taxation",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "Strategy & Planning",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Bookkeeping & Small Practice Accounting",
+                        [
+                            "TEAMWORK",
+                            "COMMUNICATION",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY"
+                        ]
+                    ],
+                    [
+                        "Business Services & Corporate Advisory",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ]
+                ],
+                "Unmatched soft skills (Overall)": [
+                    "TEAMWORK",
+                    "LEADERSHIP"
+                ],
+                "Matched soft skills (by states of jobs)": [
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COURTESY",
+                                6,
+                                -0.3555555555555555
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                52,
+                                -0.0427827380952381
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                20,
+                                -0.209921875
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                12,
+                                0.1111111111111111
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                39,
+                                0.09209821428571428
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                52,
+                                -0.11290178571428568
+                            ],
+                            [
+                                "COURTESY",
+                                12,
+                                -0.10555555555555554
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                26,
+                                0.0920982142857143
+                            ],
+                            [
+                                "COMMUNICATION",
+                                35,
+                                -0.015766030844155846
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                4,
+                                -0.20374999999999996
+                            ],
+                            [
+                                "COURTESY",
+                                6,
+                                -0.08888888888888886
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                8,
+                                0.08333333333333331
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched soft skills (by states of jobs)": [
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "COMMUNICATION",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "LEADERSHIP"
+                        ]
+                    ]
+                ],
+                "Matched soft skills (Overall)": [
+                    [
+                        "PROBLEM SOLVING",
+                        169,
+                        -0.012480540293040271
+                    ],
+                    [
+                        "COMMUNICATION",
+                        55,
+                        -0.08636815599173552
+                    ],
+                    [
+                        "PROFESSIONALISM",
+                        4,
+                        -0.20374999999999996
+                    ],
+                    [
+                        "COURTESY",
+                        24,
+                        -0.1638888888888889
+                    ],
+                    [
+                        "EXPERIENCES",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "FLEXIBILITY",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "RESPONSIBILITY",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "SELFMANAGEMENT",
+                        20,
+                        0.1
+                    ]
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2645 @@
+{
+    "Matching": [
+        {
+            "Soft skills": {
+                "Matched soft skills (by classification of jobs)": [
+                    [
+                        "Pharmaceuticals & Medical Devices",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Sales",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                19,
+                                -0.09335858585858585
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Educators & Facilitators",
+                        []
+                    ],
+                    [
+                        "Residents & Registrars",
+                        []
+                    ],
+                    [
+                        "Psychology, Counselling & Social Work",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                57,
+                                0.06458333333333335
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                2.3129646346357427e-18
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Community, Maternal & Child Health",
+                        []
+                    ],
+                    [
+                        "General Practitioners",
+                        []
+                    ],
+                    [
+                        "Physiotherapy, OT & Rehabilitation",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Speech Therapy",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                2,
+                                0.17916666666666667
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Aged Care",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "LEADERSHIP",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                19,
+                                0.17027777777777778
+                            ]
+                        ]
+                    ],
+                    [
+                        "Dental",
+                        [
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                2,
+                                -0.6361111111111111
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                38,
+                                0.03861111111111109
+                            ]
+                        ]
+                    ],
+                    [
+                        "Clinical\\ Medical Research",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - A&E, Critical Care & ICU",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                2.3129646346357427e-18
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                19,
+                                0.07027777777777777
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - General Medical & Surgical",
+                        [
+                            [
+                                "LEADERSHIP",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                2.3129646346357427e-18
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                3,
+                                -0.0961111111111111
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                95,
+                                0.016277777777777776
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                2.3129646346357427e-18
+                            ]
+                        ]
+                    ],
+                    [
+                        "Pharmacy",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Medical Administration",
+                        [
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                133,
+                                0.045793650793650796
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Management",
+                        [
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Psych, Forensic & Correctional Health",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                -0.4000000000000001
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched soft skills (Overall)": [
+                    "COURTESY",
+                    "FLEXIBILITY"
+                ],
+                "Matched soft skills (Overall)": [
+                    [
+                        "SELFMANAGEMENT",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "TEAMWORK",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "PROFESSIONALISM",
+                        5,
+                        -0.31211111111111106
+                    ],
+                    [
+                        "RESPONSIBILITY",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "LEADERSHIP",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "EXPERIENCES",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "COMMUNICATION",
+                        382,
+                        0.04237361236123611
+                    ],
+                    [
+                        "PROBLEM SOLVING",
+                        15,
+                        -0.08000000000000002
+                    ]
+                ],
+                "Unmatched soft skills (by states of jobs)": [
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "COURTESY",
+                            "LEADERSHIP",
+                            "FLEXIBILITY"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "COURTESY",
+                            "PROBLEM SOLVING",
+                            "FLEXIBILITY"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "\"Northern Territories\"",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "COURTESY",
+                            "LEADERSHIP",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "COURTESY",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY"
+                        ]
+                    ]
+                ],
+                "Matched soft skills (by states of jobs)": [
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                3,
+                                -0.0961111111111111
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                114,
+                                -0.050883838383838365
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                2.3129646346357427e-18
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                2,
+                                -0.6361111111111111
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "LEADERSHIP",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                114,
+                                0.052500000000000005
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        []
+                    ],
+                    [
+                        "\"Northern Territories\"",
+                        []
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                57,
+                                0.06967592592592592
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                9,
+                                1.5419764230904951e-18
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "SELFMANAGEMENT",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "TEAMWORK",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "LEADERSHIP",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "COMMUNICATION",
+                                97,
+                                0.12254273504273505
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                3,
+                                -0.4000000000000001
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Pharmaceuticals & Medical Devices",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Sales",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Nursing - Educators & Facilitators",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Residents & Registrars",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Psychology, Counselling & Social Work",
+                        [
+                            "COURTESY",
+                            "LEADERSHIP",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY"
+                        ]
+                    ],
+                    [
+                        "Nursing - Community, Maternal & Child Health",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "General Practitioners",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Physiotherapy, OT & Rehabilitation",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Speech Therapy",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Nursing - Aged Care",
+                        [
+                            "COURTESY",
+                            "PROBLEM SOLVING",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY"
+                        ]
+                    ],
+                    [
+                        "Dental",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Clinical\\ Medical Research",
+                        [
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Nursing - A&E, Critical Care & ICU",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP"
+                        ]
+                    ],
+                    [
+                        "Nursing - General Medical & Surgical",
+                        [
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "COMMUNICATION"
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            "COURTESY",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Pharmacy",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Medical Administration",
+                        [
+                            "COURTESY",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "EXPERIENCES",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Nursing - Management",
+                        [
+                            "COURTESY",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Nursing - Psych, Forensic & Correctional Health",
+                        [
+                            "SELFMANAGEMENT",
+                            "COURTESY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "LEADERSHIP",
+                            "COMMUNICATION"
+                        ]
+                    ]
+                ]
+            },
+            "Hard skills": {
+                "Matched hard skills (Overall)": [
+                    [
+                        "nursing",
+                        208,
+                        -0.027579365079365075
+                    ],
+                    [
+                        "general nursing",
+                        4,
+                        0.29166666666666663
+                    ],
+                    [
+                        "clinical governance",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "family therapy",
+                        1,
+                        0.0
+                    ],
+                    [
+                        "health service management",
+                        16,
+                        0.029166666666666664
+                    ],
+                    [
+                        "home nursing",
+                        2,
+                        0.31666666666666665
+                    ],
+                    [
+                        "palliative care nursing",
+                        12,
+                        0.03333333333333333
+                    ],
+                    [
+                        "group therapy",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "professional medical communication",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "lung diseases",
+                        1,
+                        0.24
+                    ],
+                    [
+                        "cooperation with other healthcare professionals",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "communication with other healthcare professionals",
+                        2,
+                        -0.1772222222222222
+                    ],
+                    [
+                        "emergency care nursing",
+                        12,
+                        0.03333333333333333
+                    ],
+                    [
+                        "general practice",
+                        24,
+                        0.029861111111111102
+                    ]
+                ],
+                "Unmatched hard skills (Overall)": [
+                    "pathology",
+                    "oncology",
+                    "educational psychology",
+                    "angiography",
+                    "quality assurance in healthcare",
+                    "mobility aids",
+                    "mammography",
+                    "occupational therapy",
+                    "hydrotherapy",
+                    "renal and dialysis nursing",
+                    "paediatrics",
+                    "psychology",
+                    "medical laboratory services",
+                    "urology",
+                    "clinical psychology",
+                    "medical services clearinghouse",
+                    "dental surgery",
+                    "ophthalmology",
+                    "CT",
+                    "surgery",
+                    "haematology",
+                    "s rehabilitation , ",
+                    "dentistry"
+                ],
+                "Matched hard skills (by states of jobs)": [
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "nursing",
+                                64,
+                                -0.08803418803418803
+                            ],
+                            [
+                                "family therapy",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "health service management",
+                                8,
+                                0.03333333333333333
+                            ],
+                            [
+                                "group therapy",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "lung diseases",
+                                1,
+                                0.24
+                            ],
+                            [
+                                "cooperation with other healthcare professionals",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "communication with other healthcare professionals",
+                                1,
+                                -0.2944444444444444
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "nursing",
+                                20,
+                                0.06597222222222221
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "nursing",
+                                60,
+                                0.032638888888888884
+                            ],
+                            [
+                                "health service management",
+                                4,
+                                0.08333333333333333
+                            ],
+                            [
+                                "palliative care nursing",
+                                12,
+                                0.03333333333333333
+                            ],
+                            [
+                                "professional medical communication",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "communication with other healthcare professionals",
+                                1,
+                                -0.06
+                            ],
+                            [
+                                "general nursing",
+                                4,
+                                0.29166666666666663
+                            ],
+                            [
+                                "general practice",
+                                24,
+                                0.029861111111111102
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        []
+                    ],
+                    [
+                        "\"Northern Territories\"",
+                        []
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "nursing",
+                                44,
+                                -0.08888888888888892
+                            ],
+                            [
+                                "home nursing",
+                                2,
+                                0.31666666666666665
+                            ],
+                            [
+                                "clinical governance",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "emergency care nursing",
+                                12,
+                                0.03333333333333333
+                            ],
+                            [
+                                "health service management",
+                                4,
+                                -0.03333333333333334
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "nursing",
+                                20,
+                                0.032638888888888884
+                            ]
+                        ]
+                    ]
+                ],
+                "Matched hard skills (by classification of jobs)": [
+                    [
+                        "Pharmaceuticals & Medical Devices",
+                        [
+                            [
+                                "professional medical communication",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "nursing",
+                                40,
+                                0.032638888888888884
+                            ]
+                        ]
+                    ],
+                    [
+                        "Sales",
+                        []
+                    ],
+                    [
+                        "Management",
+                        [
+                            [
+                                "nursing",
+                                24,
+                                0.03888888888888888
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Educators & Facilitators",
+                        [
+                            [
+                                "nursing",
+                                24,
+                                -0.18611111111111117
+                            ]
+                        ]
+                    ],
+                    [
+                        "Residents & Registrars",
+                        []
+                    ],
+                    [
+                        "Psychology, Counselling & Social Work",
+                        [
+                            [
+                                "nursing",
+                                40,
+                                -0.16736111111111113
+                            ],
+                            [
+                                "group therapy",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "family therapy",
+                                1,
+                                0.0
+                            ],
+                            [
+                                "health service management",
+                                4,
+                                -0.09285714285714286
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Community, Maternal & Child Health",
+                        []
+                    ],
+                    [
+                        "General Practitioners",
+                        [
+                            [
+                                "health service management",
+                                2,
+                                0.15238095238095237
+                            ]
+                        ]
+                    ],
+                    [
+                        "Physiotherapy, OT & Rehabilitation",
+                        []
+                    ],
+                    [
+                        "Speech Therapy",
+                        []
+                    ],
+                    [
+                        "Nursing - Aged Care",
+                        [
+                            [
+                                "nursing",
+                                20,
+                                0.06597222222222221
+                            ],
+                            [
+                                "emergency care nursing",
+                                12,
+                                0.03333333333333333
+                            ]
+                        ]
+                    ],
+                    [
+                        "Dental",
+                        [
+                            [
+                                "health service management",
+                                2,
+                                0.03333333333333333
+                            ]
+                        ]
+                    ],
+                    [
+                        "Clinical\\ Medical Research",
+                        [
+                            [
+                                "nursing",
+                                20,
+                                0.032638888888888884
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - A&E, Critical Care & ICU",
+                        [
+                            [
+                                "home nursing",
+                                2,
+                                0.31666666666666665
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - General Medical & Surgical",
+                        [
+                            [
+                                "clinical governance",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "general nursing",
+                                4,
+                                0.29166666666666663
+                            ],
+                            [
+                                "general practice",
+                                24,
+                                0.029861111111111102
+                            ]
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            [
+                                "professional medical communication",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "health service management",
+                                6,
+                                0.06666666666666667
+                            ],
+                            [
+                                "communication with other healthcare professionals",
+                                1,
+                                -0.06
+                            ]
+                        ]
+                    ],
+                    [
+                        "Pharmacy",
+                        []
+                    ],
+                    [
+                        "Medical Administration",
+                        [
+                            [
+                                "nursing",
+                                40,
+                                0.032638888888888884
+                            ],
+                            [
+                                "lung diseases",
+                                1,
+                                0.24
+                            ],
+                            [
+                                "cooperation with other healthcare professionals",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "communication with other healthcare professionals",
+                                1,
+                                -0.2944444444444444
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Management",
+                        [
+                            [
+                                "palliative care nursing",
+                                12,
+                                0.03333333333333333
+                            ]
+                        ]
+                    ],
+                    [
+                        "Nursing - Psych, Forensic & Correctional Health",
+                        [
+                            [
+                                "health service management",
+                                2,
+                                0.03333333333333333
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by states of jobs)": [
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "\"Northern Territories\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "pathology",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Pharmaceuticals & Medical Devices",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Sales",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Management",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - Educators & Facilitators",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Residents & Registrars",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Psychology, Counselling & Social Work",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - Community, Maternal & Child Health",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "General Practitioners",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Physiotherapy, OT & Rehabilitation",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Speech Therapy",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - Aged Care",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Dental",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Clinical\\ Medical Research",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - A&E, Critical Care & ICU",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - General Medical & Surgical",
+                        [
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry"
+                        ]
+                    ],
+                    [
+                        "Pharmacy",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Medical Administration",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication"
+                        ]
+                    ],
+                    [
+                        "Nursing - Management",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "health service management",
+                            "hydrotherapy",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ],
+                    [
+                        "Nursing - Psych, Forensic & Correctional Health",
+                        [
+                            "clinical governance",
+                            "pathology",
+                            "home nursing",
+                            "oncology",
+                            "educational psychology",
+                            "angiography",
+                            "lung diseases",
+                            "general nursing",
+                            "emergency care nursing",
+                            "quality assurance in healthcare",
+                            "mobility aids",
+                            "mammography",
+                            "family therapy",
+                            "occupational therapy",
+                            "hydrotherapy",
+                            "palliative care nursing",
+                            "cooperation with other healthcare professionals",
+                            "psychology",
+                            "renal and dialysis nursing",
+                            "general practice",
+                            "paediatrics",
+                            "nursing",
+                            "medical laboratory services",
+                            "urology",
+                            "clinical psychology",
+                            "medical services clearinghouse",
+                            "group therapy",
+                            "ophthalmology",
+                            "dental surgery",
+                            "CT",
+                            "surgery",
+                            "haematology",
+                            "s rehabilitation , ",
+                            "dentistry",
+                            "professional medical communication",
+                            "communication with other healthcare professionals"
+                        ]
+                    ]
+                ]
+            }
+        }
+    ],
+    "Job": [
+        {
+            "The total number of jobs": 110,
+            "job category": "healthcare medical",
+            "Job distribution by states": [
+                [
+                    "\"New South Wales\"",
+                    37
+                ],
+                [
+                    "\"South Australia\"",
+                    3
+                ],
+                [
+                    "\"Queensland\"",
+                    27
+                ],
+                [
+                    "\"Australian Capital Territory\"",
+                    2
+                ],
+                [
+                    "\"Northern Territories\"",
+                    2
+                ],
+                [
+                    "\"Western Australia\"",
+                    18
+                ],
+                [
+                    "\"Victoria\"",
+                    21
+                ]
+            ],
+            "Job distribution by job classification": [
+                [
+                    "Pharmaceuticals & Medical Devices",
+                    2
+                ],
+                [
+                    "Sales",
+                    2
+                ],
+                [
+                    "Management",
+                    3
+                ],
+                [
+                    "Nursing - Educators & Facilitators",
+                    2
+                ],
+                [
+                    "Residents & Registrars",
+                    1
+                ],
+                [
+                    "Psychology, Counselling & Social Work",
+                    8
+                ],
+                [
+                    "Nursing - Community, Maternal & Child Health",
+                    2
+                ],
+                [
+                    "General Practitioners",
+                    3
+                ],
+                [
+                    "Physiotherapy, OT & Rehabilitation",
+                    14
+                ],
+                [
+                    "Speech Therapy",
+                    2
+                ],
+                [
+                    "Nursing - Aged Care",
+                    19
+                ],
+                [
+                    "Dental",
+                    10
+                ],
+                [
+                    "Clinical\\ Medical Research",
+                    1
+                ],
+                [
+                    "Nursing - A&E, Critical Care & ICU",
+                    3
+                ],
+                [
+                    "Nursing - General Medical & Surgical",
+                    3
+                ],
+                [
+                    "Other",
+                    12
+                ],
+                [
+                    "Pharmacy",
+                    5
+                ],
+                [
+                    "Medical Administration",
+                    11
+                ],
+                [
+                    "Nursing - Management",
+                    5
+                ],
+                [
+                    "Nursing - Psych, Forensic & Correctional Health",
+                    2
+                ]
+            ]
+        }
+    ],
+    "Program": [
+        {
+            "The number of courses in the program": 21,
+            "Program category": [
+                "nursing",
+                "business and industrial",
+                "careers",
+                "health and fitness"
+            ],
+            "The list of course names": [
+                "Experiential Learning Activity: Acute Care Practicum 3",
+                "Experiential Learning Activity: Older Adults Practicum 2",
+                "Health of Adults",
+                "Professional Practice N",
+                "Research Methodologies",
+                "Health of Older Adults",
+                "Mental Health",
+                "Health of Infants Children and Young People",
+                "Nursing Contexts of Practice",
+                "Becoming a Registered Nurse",
+                "First Peoples' Health",
+                "Nursing Project",
+                "Experiential Learning Activity: Extension to Practice Practicum 4",
+                "Global and National Health",
+                "Being a Health Professional",
+                "Experiential Learning Activity: Transition to Practice Practicum 5",
+                "Experiential Learning Activity: Preparation for Clinical Practice Practicum 1",
+                "Scientific Basis of Clinical Practice",
+                "Human Body 1",
+                "Human Body 2",
+                "Program Statement"
+            ],
+            "Program name": "Bachelor of Nursing (Mount Gambier)"
+        }
+    ]
+}

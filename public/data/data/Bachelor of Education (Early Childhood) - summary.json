@@ -1,0 +1,1518 @@
+{
+    "Program": [
+        {
+            "Program name": "Bachelor of Education (Early Childhood)",
+            "The list of course names": [
+                "Numeracy",
+                "Arts Education",
+                "Children's Development: Conception to 3 years",
+                "Design and Technology Education",
+                "Professional Experience 2: Curriculum and Pedagogy",
+                "Managing Learning Environments",
+                "Studies in English Education 1",
+                "Studies in English Education 2",
+                "Studies in Mathematics Education 1 ",
+                "Social and Emotional Development in Early Childhood",
+                "Professional Experience 3: Assessment and Reporting",
+                "Professional Experience 1: Introduction to Educators' Practices",
+                "Professional Experience Birth to 3",
+                "Studies in Mathematics Education 2 ",
+                "Professional Experience 4: Teacher as Inquirer",
+                "Language and Literacy for Learning",
+                "Humanities and Social Sciences Education",
+                "Arts Across the Early Childhood Curriculum",
+                "Reconceptualising Early Childhood",
+                "Inclusive Education",
+                "Contesting Curriculum Pedagogy and Assessment ",
+                "Developing a Play Curriculum",
+                "Teaching and Learning in Aboriginal Education",
+                "Learning and Cognition",
+                "Health and Physical Education",
+                "Children in Families and Communities",
+                "Science Education",
+                "Introduction to Research in Education",
+                "Leadership and Advocacy in Early Childhood",
+                "Program Statement"
+            ],
+            "Program category": [
+                "law, govt and politics",
+                "education",
+                "finance",
+                "grants, scholarships and financial aid",
+                "legal issues"
+            ],
+            "The number of courses in the program": 30
+        }
+    ],
+    "Matching": [
+        {
+            "Hard skills": {
+                "Matched hard skills (by states of jobs)": [
+                    [
+                        "\"Western Australia\"",
+                        []
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "primary school",
+                                12,
+                                -0.05152777777777778
+                            ],
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "universities",
+                                8,
+                                -0.10381250000000002
+                            ],
+                            [
+                                "residential care",
+                                2,
+                                0.18
+                            ],
+                            [
+                                "educational policy",
+                                4,
+                                0.12222222222222222
+                            ],
+                            [
+                                "preschool",
+                                2,
+                                -0.5
+                            ],
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "teaching in special education",
+                                1,
+                                0.1763888888888889
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "special education",
+                                8,
+                                -0.24232804232804236
+                            ],
+                            [
+                                "professional education",
+                                18,
+                                -0.12522321428571426
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "universities",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        []
+                    ]
+                ],
+                "Unmatched hard skills (Overall)": [
+                    "development of educational opportunities",
+                    "secondary academic school",
+                    "pedagogy of higher education",
+                    "coaching",
+                    "lower secondary school",
+                    "tutoring",
+                    "colleges",
+                    "vocational education and training",
+                    "kindergarten"
+                ],
+                "Matched hard skills (Overall)": [
+                    [
+                        "universities",
+                        8,
+                        -0.10381250000000002
+                    ],
+                    [
+                        "residential care",
+                        2,
+                        0.18
+                    ],
+                    [
+                        "primary school",
+                        12,
+                        -0.05152777777777778
+                    ],
+                    [
+                        "educational policy",
+                        4,
+                        0.12222222222222222
+                    ],
+                    [
+                        "preschool",
+                        2,
+                        -0.5
+                    ],
+                    [
+                        "special education",
+                        8,
+                        -0.24232804232804236
+                    ],
+                    [
+                        "professional education",
+                        18,
+                        -0.12522321428571426
+                    ],
+                    [
+                        "mentoring",
+                        0,
+                        0.0
+                    ],
+                    [
+                        "teaching in special education",
+                        1,
+                        0.1763888888888889
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Workplace Training & Assessment",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Library Services & Information Management",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Management - Universities",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Management - Schools",
+                        [
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Childcare & Outside School Hours Care",
+                        [
+                            "universities",
+                            "residential care",
+                            "development of educational opportunities",
+                            "secondary academic school",
+                            "pedagogy of higher education",
+                            "coaching",
+                            "educational policy",
+                            "professional education",
+                            "special education",
+                            "lower secondary school",
+                            "tutoring",
+                            "colleges",
+                            "vocational education and training",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Teaching - Vocational",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Teaching - Early Childhood",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Tutoring",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Teaching - Secondary",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Teaching - Primary",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Student Services",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "Management - Vocational",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ]
+                ],
+                "Matched hard skills (by classification of jobs)": [
+                    [
+                        "Workplace Training & Assessment",
+                        [
+                            [
+                                "universities",
+                                1,
+                                -0.026562500000000003
+                            ],
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Library Services & Information Management",
+                        []
+                    ],
+                    [
+                        "Management - Universities",
+                        [
+                            [
+                                "educational policy",
+                                4,
+                                0.12222222222222222
+                            ],
+                            [
+                                "universities",
+                                7,
+                                -0.12312500000000001
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management - Schools",
+                        [
+                            [
+                                "residential care",
+                                2,
+                                0.18
+                            ]
+                        ]
+                    ],
+                    [
+                        "Childcare & Outside School Hours Care",
+                        [
+                            [
+                                "primary school",
+                                12,
+                                -0.05152777777777778
+                            ],
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "teaching in special education",
+                                1,
+                                0.1763888888888889
+                            ],
+                            [
+                                "preschool",
+                                2,
+                                -0.5
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Vocational",
+                        [
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            [
+                                "mentoring",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Early Childhood",
+                        []
+                    ],
+                    [
+                        "Tutoring",
+                        []
+                    ],
+                    [
+                        "Teaching - Secondary",
+                        [
+                            [
+                                "special education",
+                                8,
+                                -0.24232804232804236
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Primary",
+                        [
+                            [
+                                "professional education",
+                                18,
+                                -0.12522321428571426
+                            ]
+                        ]
+                    ],
+                    [
+                        "Student Services",
+                        [
+                            [
+                                "universities",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management - Vocational",
+                        []
+                    ]
+                ],
+                "Unmatched hard skills (by states of jobs)": [
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "development of educational opportunities",
+                            "secondary academic school",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "lower secondary school",
+                            "tutoring",
+                            "colleges",
+                            "vocational education and training",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "residential care",
+                            "secondary academic school",
+                            "development of educational opportunities",
+                            "lower secondary school",
+                            "mentoring",
+                            "vocational education and training",
+                            "teaching in special education",
+                            "universities",
+                            "pedagogy of higher education",
+                            "primary school",
+                            "educational policy",
+                            "coaching",
+                            "professional education",
+                            "special education",
+                            "tutoring",
+                            "preschool",
+                            "colleges",
+                            "kindergarten"
+                        ]
+                    ]
+                ]
+            },
+            "Soft skills": {
+                "Matched soft skills (by classification of jobs)": [
+                    [
+                        "Workplace Training & Assessment",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                36,
+                                0.07187994779140613
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                1,
+                                0.19
+                            ],
+                            [
+                                "COMMUNICATION",
+                                15,
+                                0.029852831196581192
+                            ],
+                            [
+                                "EXPERIENCES",
+                                4,
+                                -0.028749999999999998
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                6,
+                                0.10530555555555557
+                            ]
+                        ]
+                    ],
+                    [
+                        "Library Services & Information Management",
+                        [
+                            [
+                                "EXPERIENCES",
+                                2,
+                                0.14833333333333334
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                6,
+                                0.08773504273504273
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                12,
+                                0.10530555555555558
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management - Universities",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                36,
+                                0.17187994779140614
+                            ],
+                            [
+                                "LEADERSHIP",
+                                10,
+                                -0.25889833711262283
+                            ],
+                            [
+                                "COMMUNICATION",
+                                30,
+                                0.0798528311965812
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                2,
+                                0.39
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management - Schools",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                72,
+                                -0.2200431291316708
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                2,
+                                0.39
+                            ]
+                        ]
+                    ],
+                    [
+                        "Childcare & Outside School Hours Care",
+                        [
+                            [
+                                "LEADERSHIP",
+                                9,
+                                -0.13854497354497353
+                            ],
+                            [
+                                "COMMUNICATION",
+                                104,
+                                0.05239407814407815
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                4,
+                                -0.03426587301587303
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                4,
+                                0.29
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                3,
+                                0.08773504273504273
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                12,
+                                -0.1913611111111111
+                            ],
+                            [
+                                "EXPERIENCES",
+                                32,
+                                0.037593601834673265
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Vocational",
+                        [
+                            [
+                                "EXPERIENCES",
+                                6,
+                                0.14833333333333334
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                1,
+                                0.39
+                            ]
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            [
+                                "COMMUNICATION",
+                                15,
+                                0.029852831196581192
+                            ],
+                            [
+                                "EXPERIENCES",
+                                2,
+                                0.14833333333333334
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                2,
+                                0.34
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Early Childhood",
+                        [
+                            [
+                                "COMMUNICATION",
+                                30,
+                                -0.47014716880341884
+                            ],
+                            [
+                                "EXPERIENCES",
+                                26,
+                                -0.05102564102564103
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                15,
+                                -0.07226495726495728
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                1,
+                                0.24
+                            ]
+                        ]
+                    ],
+                    [
+                        "Tutoring",
+                        [
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Secondary",
+                        [
+                            [
+                                "EXPERIENCES",
+                                2,
+                                0.14833333333333334
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                3,
+                                0.08773504273504273
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                5,
+                                0.14000000000000004
+                            ]
+                        ]
+                    ],
+                    [
+                        "Teaching - Primary",
+                        [
+                            [
+                                "EXPERIENCES",
+                                2,
+                                -0.2516666666666667
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                2,
+                                0.140734126984127
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                3,
+                                0.1677777777777778
+                            ]
+                        ]
+                    ],
+                    [
+                        "Student Services",
+                        [
+                            [
+                                "LEADERSHIP",
+                                3,
+                                -0.09854497354497355
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                2,
+                                0.140734126984127
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                2,
+                                0.39
+                            ]
+                        ]
+                    ],
+                    [
+                        "Management - Vocational",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                36,
+                                -0.32812005220859386
+                            ],
+                            [
+                                "LEADERSHIP",
+                                3,
+                                0.06145502645502645
+                            ],
+                            [
+                                "COMMUNICATION",
+                                3,
+                                -0.011800213675213674
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                1,
+                                0.19
+                            ]
+                        ]
+                    ]
+                ],
+                "Unmatched hard skills (by classification of jobs)": [
+                    [
+                        "Workplace Training & Assessment",
+                        [
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM"
+                        ]
+                    ],
+                    [
+                        "Library Services & Information Management",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "RESPONSIBILITY",
+                            "TEAMWORK",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Management - Universities",
+                        [
+                            "TEAMWORK",
+                            "EXPERIENCES",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Management - Schools",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "EXPERIENCES"
+                        ]
+                    ],
+                    [
+                        "Childcare & Outside School Hours Care",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK"
+                        ]
+                    ],
+                    [
+                        "Teaching - Vocational",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Other",
+                        [
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Teaching - Early Childhood",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "FLEXIBILITY",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Tutoring",
+                        [
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "RESPONSIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Teaching - Secondary",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Teaching - Primary",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "Student Services",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "COMMUNICATION",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "Management - Vocational",
+                        [
+                            "TEAMWORK",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT"
+                        ]
+                    ]
+                ],
+                "Unmatched soft skills (Overall)": [
+                    "TEAMWORK"
+                ],
+                "Unmatched soft skills (by states of jobs)": [
+                    [
+                        "\"Western Australia\"",
+                        [
+                            "LEADERSHIP",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            "TEAMWORK",
+                            "LEADERSHIP",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT"
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            "TEAMWORK"
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING"
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            "PROBLEM SOLVING",
+                            "TEAMWORK",
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "PROFESSIONALISM"
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        [
+                            "COMMUNICATION",
+                            "FLEXIBILITY",
+                            "LEADERSHIP",
+                            "RESPONSIBILITY",
+                            "TEAMWORK",
+                            "PROFESSIONALISM",
+                            "SELFMANAGEMENT",
+                            "PROBLEM SOLVING",
+                            "EXPERIENCES"
+                        ]
+                    ]
+                ],
+                "Matched soft skills (by states of jobs)": [
+                    [
+                        "\"Western Australia\"",
+                        [
+                            [
+                                "EXPERIENCES",
+                                2,
+                                0.14833333333333334
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                2,
+                                0.06500000000000006
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Victoria\"",
+                        [
+                            [
+                                "PROBLEM SOLVING",
+                                36,
+                                0.17187994779140614
+                            ],
+                            [
+                                "COMMUNICATION",
+                                105,
+                                -0.09871859737484741
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                4,
+                                0.140734126984127
+                            ],
+                            [
+                                "EXPERIENCES",
+                                24,
+                                0.04462962962962963
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                3,
+                                0.34
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"New South Wales\"",
+                        [
+                            [
+                                "COMMUNICATION",
+                                92,
+                                0.05343290598290599
+                            ],
+                            [
+                                "FLEXIBILITY",
+                                4,
+                                -0.03426587301587303
+                            ],
+                            [
+                                "LEADERSHIP",
+                                16,
+                                -0.1424062049062049
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                11,
+                                0.3263636363636364
+                            ],
+                            [
+                                "PROFESSIONALISM",
+                                27,
+                                -0.0011538461538461659
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                24,
+                                -0.04302777777777777
+                            ],
+                            [
+                                "PROBLEM SOLVING",
+                                144,
+                                -0.17408159067013237
+                            ],
+                            [
+                                "EXPERIENCES",
+                                44,
+                                -0.00044960270609619135
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Queensland\"",
+                        [
+                            [
+                                "LEADERSHIP",
+                                6,
+                                -0.23854497354497353
+                            ],
+                            [
+                                "EXPERIENCES",
+                                6,
+                                -0.051666666666666645
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                8,
+                                0.20666666666666667
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"South Australia\"",
+                        [
+                            [
+                                "LEADERSHIP",
+                                3,
+                                -0.09854497354497355
+                            ],
+                            [
+                                "RESPONSIBILITY",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "EXPERIENCES",
+                                0,
+                                0.0
+                            ],
+                            [
+                                "SELFMANAGEMENT",
+                                6,
+                                0.10530555555555557
+                            ]
+                        ]
+                    ],
+                    [
+                        "\"Australian Capital Territory\"",
+                        []
+                    ]
+                ],
+                "Matched soft skills (Overall)": [
+                    [
+                        "COMMUNICATION",
+                        197,
+                        -0.02694902031930336
+                    ],
+                    [
+                        "FLEXIBILITY",
+                        8,
+                        0.05323412698412698
+                    ],
+                    [
+                        "LEADERSHIP",
+                        25,
+                        -0.15986694677871147
+                    ],
+                    [
+                        "RESPONSIBILITY",
+                        24,
+                        0.26638888888888884
+                    ],
+                    [
+                        "PROFESSIONALISM",
+                        27,
+                        -0.0011538461538461659
+                    ],
+                    [
+                        "SELFMANAGEMENT",
+                        30,
+                        -0.013361111111111091
+                    ],
+                    [
+                        "PROBLEM SOLVING",
+                        180,
+                        -0.10488928297782463
+                    ],
+                    [
+                        "EXPERIENCES",
+                        76,
+                        0.013657832351441421
+                    ]
+                ]
+            }
+        }
+    ],
+    "Job": [
+        {
+            "job category": "healthcare medical",
+            "The total number of jobs": 110,
+            "Job distribution by job classification": [
+                [
+                    "Workplace Training & Assessment",
+                    5
+                ],
+                [
+                    "Library Services & Information Management",
+                    2
+                ],
+                [
+                    "Management - Universities",
+                    5
+                ],
+                [
+                    "Management - Schools",
+                    2
+                ],
+                [
+                    "Childcare & Outside School Hours Care",
+                    51
+                ],
+                [
+                    "Teaching - Vocational",
+                    4
+                ],
+                [
+                    "Other",
+                    5
+                ],
+                [
+                    "Teaching - Early Childhood",
+                    15
+                ],
+                [
+                    "Tutoring",
+                    2
+                ],
+                [
+                    "Teaching - Secondary",
+                    10
+                ],
+                [
+                    "Teaching - Primary",
+                    4
+                ],
+                [
+                    "Student Services",
+                    4
+                ],
+                [
+                    "Management - Vocational",
+                    1
+                ]
+            ],
+            "Job distribution by states": [
+                [
+                    "\"Western Australia\"",
+                    8
+                ],
+                [
+                    "\"Victoria\"",
+                    20
+                ],
+                [
+                    "\"New South Wales\"",
+                    52
+                ],
+                [
+                    "\"Queensland\"",
+                    22
+                ],
+                [
+                    "\"South Australia\"",
+                    4
+                ],
+                [
+                    "\"Australian Capital Territory\"",
+                    4
+                ]
+            ]
+        }
+    ]
+}
