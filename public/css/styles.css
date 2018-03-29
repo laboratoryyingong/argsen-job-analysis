@@ -1,5 +1,16 @@
 .ct-label{
   font-size: 1em;
+  width: 30px;
+}
+.ct-bar {
+  fill: none;
+  stroke-width: 40px;
+}
+
+.ct-bar-label {
+  font-size: 15px;
+  font-weight: bold;
+  fill: #f7f7f7;
 }
 
 .btn {
@@ -3315,7 +3326,7 @@ footer {
 }
 
 .search-input .form-select, .search-input .form-submit, .search-input .sbHolder {
-  width: 15%;
+  width: 40%;
   display: inline-block
 }
 

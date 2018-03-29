@@ -42,7 +42,7 @@
     ],
     "Job": [
         {
-            "job category": "healthcare medical",
+            "job category": "information-communication-technology",
             "Job distribution by states": [
                 [
                     "\"Victoria\"",
@@ -91,7 +91,11 @@
                     73
                 ]
             ],
-            "The total number of jobs": 108
+            "The total number of jobs": 108,
+            "seek": {
+                "name": "Senior Software Developer - NodeJS / AWS",
+                "url": "https://www.seek.com.au/job/35839032?type=standard&userqueryid=8682f1745a17761fe2a887754c08fe08-4972341"
+            }
         }
     ],
     "Matching": [

@@ -1,147 +1,447 @@
+var programId = 1; //default program id = 1
+
 (function($) {
     "use strict";
     $(function(){
 
-        $.getJSON("/public/data/data/Bachelor of Information Technology (Software Development) -summary.json", function(data){
-  
-            var matching = data["Matching"][0];
+        var loadData = function (programId) {
 
-            /**
-             * @description: program block
-             */
-            var program = data["Program"][0];
+            var programPath = null;
+            var linkedinPath = null;
 
-            $("#program-name").text(program["Program name"]);
-            $("#current-date").text(Date().split("GMT")[0]);
+            switch (programId) {
+                case 1:
+                    programPath = '/public/data/data/Bachelor of Information Technology (Software Development) -summary.json';
+                    linkedinPath = '/public/data/data/linkedin.json';
+                    break;
+                case 2:
+                    programPath = '/public/data/data/Bachelor of Education (Early Childhood) - summary.json';
+                    linkedinPath = null;
+                    break;
+                case 3:
+                    programPath = '/public/data/data/Bachelor of Nursing (Mount Gambier) - summary.json';
+                    linkedinPath = null;
+                    break;
+                case 4:
+                    programPath = '/public/data/data/Bachelor of Commerce (Accounting) - summary.json';
+                    linkedinPath = null;
+                    break;
 
-            $("#total-number-of-course").text("The number of courses in the program : " + program["The number of courses in the program"]);
+                default:
+                    break;
+            }
 
-            $("#program-table").empty();
-     
-            for(var i = 0; i < program["The list of course names"].length; i++){
-                var tr = '<tr class="table-row">' +
-                            '<td class="left col-2">' +
-                                '<span>' + (i + 1) + '</span>' +
-                            '</td>' +
-                            '<td class="left col-1">' +
-                                '<span>' + program["The list of course names"][i] + '</span>' +
-                            '</td>' +
+            $.getJSON(programPath, function (data) {
+
+                /**
+                 * @description: program block
+                 */
+                var program = data["Program"][0];
+
+                $("#program-name").text(program["Program name"]);
+                $("#current-date").text(Date().split("GMT")[0]);
+
+                $("#total-number-of-course").text("The number of courses in the program : " + program["The number of courses in the program"]);
+
+                $("#program-table").empty();
+
+                for (var i = 0; i < program["The list of course names"].length; i++) {
+                    var tr = '<tr class="table-row">' +
+                        '<td class="left col-2">' +
+                        '<span>' + (i + 1) + '</span>' +
+                        '</td>' +
+                        '<td class="left col-1">' +
+                        '<span>' + program["The list of course names"][i] + '</span>' +
+                        '</td>' +
                         '</tr>';
-                
-                $("#program-table").append(tr);
-            }
 
-            var words = [];
-            for(var i = 0; i < program["Program category"].length; i++){ 
-                var item = {text: program["Program category"][i], weight:Math.random()%5 }
-                words.push(item);
-            }
+                    $("#program-table").append(tr);
+                }
 
-            $('#program-category').jQCloud(words, {
-                width: 350,
-                height: 350,
-                autoResize: true
+                var words = [];
+                for (var i = 0; i < program["Program category"].length; i++) {
+                    var item = { text: program["Program category"][i], weight: Math.random() % 5 }
+                    words.push(item);
+                }
+
+                $('#program-category').empty();
+
+                $('#program-category').jQCloud(words, {
+                    width: 350,
+                    height: 350,
+                    autoResize: true
+                });
+
+                /**
+                 * @description: jobs block
+                 */
+                var job = data["Job"][0];
+                $("#total-number-of-job").text("The total number of jobs : " + job["The total number of jobs"]);
+
+                var chartDataClassification = {
+                    labels: [],
+                    series: []
+                }
+
+                for (var i = 0; i < job["Job distribution by job classification"].length; i++) {
+                    chartDataClassification.labels.push(job["Job distribution by job classification"][i][0]);
+                    chartDataClassification.series.push(job["Job distribution by job classification"][i][1]);
+                }
+
+                new Chartist.Bar('#job-classification', chartDataClassification, {
+                    distributeSeries: true,
+                    width: "700px",
+                    height: "400px",
+                    plugins: [
+                        Chartist.plugins.ctBarLabels()
+                    ]
+                });
+
+                var chartDataStates = {
+                    labels: [],
+                    series: []
+                }
+
+                for (var i = 0; i < job["Job distribution by states"].length; i++) {
+                    chartDataStates.labels.push(job["Job distribution by states"][i][0]);
+                    chartDataStates.series.push(job["Job distribution by states"][i][1]);
+                }
+
+                new Chartist.Bar('#job-states', chartDataStates, {
+                    distributeSeries: true,
+                    width: "700px",
+                    height: "400px",
+                    plugins: [
+                        Chartist.plugins.ctBarLabels()
+                    ]
+                });
+
+                var jobWords = [];
+                var item = { text: job["job category"], weight: Math.random() % 5 }
+                jobWords.push(item);
+
+                $("#job-category").empty();
+
+                $("#job-category").jQCloud(jobWords, {
+                    width: 350,
+                    height: 350,
+                    autoResize: true
+                });
+
+                $("#job-seek").empty();
+                var tr = '<tr class="table-row">' +
+                    '<td class="left col-2">' +
+                    '<span>' + job["seek"]["name"] + '</span>' +
+                    '</td>' +
+                    '<td class="col-2">' +
+                    '<a href="' + job["seek"]["url"] + '" target="_blank">' + 'Click to review' + '</a>' +
+                    '</td>' +
+                    '</tr>';
+
+                $("#job-seek").append(tr);
+
+                /**
+                 * @description: linkedin block
+                 */
+
+                var matching = data["Matching"][0];
+
+                $("#matching-title").text("Program : " + program["Program name"] + " vs. " + job["The total number of jobs"] + " " + job["job category"] + " jobs");
+
+                $("#matched-hard-skills-overall").empty();
+
+                for (var i = 0; i < matching["Hard skills"]["Matched hard skills (Overall)"].length; i++) {
+
+                    var status = matching["Hard skills"]["Matched hard skills (Overall)"][i][1] === 0 ? true : false;
+
+                    if (status) {
+                        var tr = '<tr class="table-row">' +
+                            '<td class="left col-1">' +
+                            '<span>' + matching["Hard skills"]["Matched hard skills (Overall)"][i][0] + '</span>' +
+                            '</td>' +
+                            '<td class="col-2">' +
+                            '<div class="bg-green">neutral</div>' +
+                            '</td>' +
+                            '</tr>';
+                    } else {
+                        var tr = '<tr class="table-row">' +
+                            '<td class="left col-1">' +
+                            '<span>' + matching["Hard skills"]["Matched hard skills (Overall)"][i][0] + '</span>' +
+                            '</td>' +
+                            '<td class="col-2">' +
+                            '<div class="bg-yellow">beyond</div>' +
+                            '</td>' +
+                            '</tr>';
+
+                    }
+
+                    $("#matched-hard-skills-overall").append(tr);
+                }
+
+                $("#unmatched-hard-skills-overall").empty();
+
+                for (var i = 0; i < matching["Hard skills"]["Unmatched hard skills (Overall)"].length; i++) {
+
+                    var tr = '<tr class="table-row">' +
+                        '<td class="left col-1">' +
+                        '<span>' + matching["Hard skills"]["Unmatched hard skills (Overall)"][i] + '</span>' +
+                        '</td>' +
+                        '<td class="col-2">' +
+                        '<div class="bg-red">Unmatched</div>' +
+                        '</td>' +
+                        '</tr>';
+
+                    $("#unmatched-hard-skills-overall").append(tr);
+                }
+
+                $("#matched-soft-skills-overall").empty();
+
+                for (var i = 0; i < matching["Soft skills"]["Matched soft skills (Overall)"].length; i++) {
+
+                    var status = matching["Soft skills"]["Matched soft skills (Overall)"][i][1] === 0 ? true : false;
+
+                    if (status) {
+                        var tr = '<tr class="table-row">' +
+                            '<td class="left col-1">' +
+                            '<span>' + matching["Soft skills"]["Matched soft skills (Overall)"][i][0] + '</span>' +
+                            '</td>' +
+                            '<td class="col-2">' +
+                            '<div class="bg-green">neutral</div>' +
+                            '</td>' +
+                            '</tr>';
+                    } else {
+                        var tr = '<tr class="table-row">' +
+                            '<td class="left col-1">' +
+                            '<span>' + matching["Soft skills"]["Matched soft skills (Overall)"][i][0] + '</span>' +
+                            '</td>' +
+                            '<td class="col-2">' +
+                            '<div class="bg-yellow">beyond</div>' +
+                            '</td>' +
+                            '</tr>';
+
+                    }
+
+                    $("#matched-soft-skills-overall").append(tr);
+                }
+
+                $("#unmatched-soft-skills-overall").empty();
+
+                for (var i = 0; i < matching["Soft skills"]["Unmatched soft skills (Overall)"].length; i++) {
+
+                    var tr = '<tr class="table-row">' +
+                        '<td class="left col-1">' +
+                        '<span>' + matching["Soft skills"]["Unmatched soft skills (Overall)"][i] + '</span>' +
+                        '</td>' +
+                        '<td class="col-2">' +
+                        '<div class="bg-red">Unmatched</div>' +
+                        '</td>' +
+                        '</tr>';
+
+                    $("#unmatched-soft-skills-overall").append(tr);
+                }
+
+
+
             });
 
-            /**
-             * @description: jobs block
-             */
-            var job = data["Job"][0];
-            $("#total-number-of-job").text("The total number of jobs : " + job["The total number of jobs"]);
+            if (linkedinPath) {
 
-            var chartDataClassification = {
-                labels: [],
-                series: []
+                $("#linkedin-section").show();
+
+                $.getJSON(linkedinPath, function (data) {
+
+                    /**
+                     * @description: linkedin block
+                     */
+
+                    var linkedin = data["details"];
+
+                    $("#total-number-of-linkedin").text("Total number of LinkedIn Profiles :" + data.summary.list.length);
+
+                    $("#linkedin-table").empty();
+
+                    for (var i = 0; i < linkedin.length; i++) {
+
+                        var sub = '';
+
+                        for (var j = 0; j < linkedin[i]["working-experience"].length; j++) {
+                            sub += '<p>' + linkedin[i]["working-experience"][j]["company"] + ':' + linkedin[i]["working-experience"][j]["period"] + '</p>';
+                        }
+
+                        var tr = '<tr class="table-row">' +
+                            '<td class="left col-2">' +
+                            '<span>' + linkedin[i]["name"] + '</span>' +
+                            '</td>' +
+                            '<td class="left col-2">' +
+                            '<span>' + linkedin[i]["status"] + '</span>' +
+                            '</td>' +
+                            '<td class="left col-3">' +
+                            '<span>' + linkedin[i]["degree"] + '</span>' +
+                            '</td>' +
+                            '<td class="left col-4">' +
+                            '<span>' + sub + '</span>' +
+                            '</td>' +
+                            '</tr>';
+
+                        $("#linkedin-table").append(tr);
+                    }
+
+                    var linkedinChartData = {
+                        labels: ["work in top 500", "not work in top 500", "unknown"],
+                        series: [0, 0, 0]
+                    }
+
+                    for (var i = 0; i < data.summary.list.length; i++) {
+                        switch (data.summary.list[i].status) {
+                            case "True":
+                                linkedinChartData.series[0]++;
+
+                                break;
+                            case "False":
+                                linkedinChartData.series[1]++;
+
+                                break;
+                            case "Undefined":
+                                linkedinChartData.series[2]++;
+
+                                break;
+                            default:
+                                break;
+                        }
+                    }
+
+                    new Chartist.Bar('#fortune-500-chart', linkedinChartData, {
+                        distributeSeries: true,
+                        plugins: [
+                            Chartist.plugins.ctBarLabels()
+                        ]
+                    });
+
+                    /**
+                     * @description: linkedin example block 1
+                     */
+
+                    var chart = new Chartist.Line('#linkein-example-1', {
+                        labels: ['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017'],
+                        // Naming the series with the series object array notation
+                        series: [{
+                            name: 'series-1',
+                            data: [1, 2.5, 5, 5, 10, 10, 12, 12]
+                        }]
+                    }, {
+                            axisY: {
+                                labelInterpolationFnc: function (value, index) {
+
+                                    switch (value) {
+                                        case 2.5:
+                                            return "IBM (Contract)";
+                                            break;
+                                        case 5:
+                                            return "HP Australia";
+                                            break;
+                                        case 10:
+                                            return "Dodo Services";
+                                            break;
+                                        case 12.5:
+                                            return "M2 Telecommunications Group Ltd";
+                                            break;
+
+                                        default:
+                                            break;
+                                    }
+                                }
+                            },
+                            width: "800px",
+                            height: "400px",
+                            fullWidth: true,
+                            // Within the series options you can use the series names
+                            // to specify configuration that will only be used for the
+                            // specific series.
+                            series: {
+                                'series-1': {
+                                    lineSmooth: Chartist.Interpolation.step()
+                                },
+                                'series-2': {
+                                    lineSmooth: Chartist.Interpolation.simple(),
+                                    showArea: true
+                                },
+                                'series-3': {
+                                    showPoint: false
+                                }
+                            }
+                        }, [
+                            // You can even use responsive configuration overrides to
+                            // customize your series configuration even further!
+                            ['screen and (max-width: 320px)', {
+                                series: {
+                                    'series-1': {
+                                        lineSmooth: Chartist.Interpolation.none()
+                                    },
+                                    'series-2': {
+                                        lineSmooth: Chartist.Interpolation.none(),
+                                        showArea: false
+                                    },
+                                    'series-3': {
+                                        lineSmooth: Chartist.Interpolation.none(),
+                                        showPoint: true
+                                    }
+                                }
+                            }]
+                        ]);
+
+                });
+
+            } else {
+                $("#linkedin-section").hide();
             }
+
+        }
+
+        loadData(programId);
+
+        //bind event
+        $("#submit-program-id").on("click", function(event){
+            event.preventDefault();
+
+            var selected = $(".sbSelector").text();
+
+            switch (selected) {
+                case "Bachelor of Information Technology (Software Development)":
+                    programId = 1;
+                    break;
+                case "Bachelor of Education (Early Childhood) - summary":
+                    programId = 2;
+                    break;
+                case "Bachelor of Nursing (Mount Gambier) - summary":
+                    programId = 3;
+                    break;
+                case "Bachelor of Commerce (Accounting) - summary":
+                    programId = 4;
+                    break;
             
-            for(var i=0; i< job["Job distribution by job classification"].length; i++){
-                chartDataClassification.labels.push(job["Job distribution by job classification"][i][0]);
-                chartDataClassification.series.push(job["Job distribution by job classification"][i][1]);
+                default:
+                    break;
             }
 
-            new Chartist.Bar('#job-classification', chartDataClassification, {
-                distributeSeries: true,
-                width: "700px",
-                height: "400px"
-            });
-
-            var chartDataStates = {
-                labels: [],
-                series: []
-            }
-
-            for(var i=0; i< job["Job distribution by states"].length; i++){
-                chartDataStates.labels.push(job["Job distribution by states"][i][0]);
-                chartDataStates.series.push(job["Job distribution by states"][i][1]);
-            }
-
-            new Chartist.Bar('#job-states', chartDataStates, {
-                distributeSeries: true,
-                width: "700px",
-                height: "400px"
-            });
-
-            var jobWords = [];
-            var item = {text: job["job category"], weight:Math.random()%5 }
-            jobWords.push(item);
-
-            $("#job-category").jQCloud(jobWords, {
-                width: 350,
-                height: 350,
-                autoResize: true
-            });
-
-            /**
-             * @description: linkedin block
-             */
-
-
-
+            loadData(programId);
+            
         });
 
-        $.getJSON("/public/data/data/linkedin.json", function(data){
-
-            /**
-             * @description: linkedin block
-             */
-
-            $("#total-number-of-linkedin").text("Total number of LinkedIn Profiles :" + data.summary.list.length);
-
-            var linkedinChartData = {
-                labels: ["work in top 500", "not work in top 500", "unknown"],
-                series: [0,0,0]
-            }
-
-            for(var i = 0; i < data.summary.list.length; i++){
-                switch (data.summary.list[i].status) {
-                    case "True":
-                        linkedinChartData.series[0]++;
-                    
-                    break;
-                    case "False":
-                        linkedinChartData.series[1]++;
-                    
-                    break;
-                    case "Undefined":
-                        linkedinChartData.series[2]++;
-                        
-                        break;
-                    default:
-                        break;
+        //accordion action panel
+        $('.accordion .panel .panel-heading').on('click', function() {
+            var accor = $(this).closest('.accordion');
+            var accor_panel = $(this).parent();
+            if (accor_panel.hasClass('active')){
+                accor_panel.removeClass('active');
+            } else{
+                if ($('.panel-title a.accordion-toggle').hasClass('collapsed')) {
+                    $('.panel', accor).removeClass('active');
+                    accor_panel.addClass('active');
+                } else{
+                    accor_panel.removeClass('active');
                 }
             }
-
-            new Chartist.Bar('#fortune-500-chart', linkedinChartData, {
-                distributeSeries: true,
-            });
-            
-
-            console.log(data)
         });
-
-
-
-
 
         // AMIMATED NUMBER
         $('.progress-bar-number').appear(function(){

@@ -2604,7 +2604,11 @@
                     "Nursing - Psych, Forensic & Correctional Health",
                     2
                 ]
-            ]
+            ],
+            "seek": {
+                "name": "Registered Nurses (Emergency)",
+                "url": "https://www.seek.com.au/job/35853306?type=standard&userqueryid=5c48f1657c505a81f1268b605a5d5581-4846221"
+            }
         }
     ],
     "Program": [
