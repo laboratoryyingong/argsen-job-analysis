@@ -2,6 +2,38 @@
     "use strict";
     $(function () {
 
+        new Chartist.Bar('#data-analysis-assesment', {
+            labels: ['Network Fundamentals', 'Systems Design', 'Artificial Intelligence', 'Computer Science Foundations','Systems Analysis','Database Fundamentals'],
+            series: [
+                [8, 12, 14, 13, 15, 12],
+                [0, 0, 0, 0, 0, 0],
+                [10, 8, 12, 8, 8, 6]
+            ]
+        }, {
+                stackBars: true,
+                width: "900px",
+                height: "400px",
+                axisY: {
+                    labelInterpolationFnc: function (value) {
+
+                        console.log(value)
+
+                        if(value === 10 ){
+                            return 'matched';
+                        }else if(value === 17.5){
+                            return 'unmatched';
+                        }
+
+                    }
+                }
+            }).on('draw', function (data) {
+                if (data.type === 'bar') {
+                    data.element.attr({
+                        style: 'stroke-width: 50px'
+                    });
+                }
+            });
+
 
         // BACK TOP
         $('#back-top a').on('click', function () {

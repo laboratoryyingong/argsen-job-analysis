@@ -9,7 +9,8 @@
 
 .ct-label{
   font-size: 1em;
-  width: 30px;
+  width: 50px !important;
+
 }
 .ct-bar {
   fill: none;
