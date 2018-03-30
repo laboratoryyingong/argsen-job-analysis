@@ -15,6 +15,6 @@
     //todo: add details pages
 
     app.get('/details', function(req, res){
-        res.render('pages/chart');
+        res.render('pages/details');
     });
  };

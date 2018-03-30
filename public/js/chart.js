@@ -27,16 +27,135 @@
 
 // ************** re-structure tree data from example.json *****************
 
-d3.json("/public/data/example.json", jsonHandler);
+var selectProgram = null;
+var selectSkill = null;
+var selectSub = null;
+
+$("#show-details-chart").on("click", function () {
+
+    var selectProgram = $('#select-program').find(":selected").val();
+    var path ='';
+
+    switch (selectProgram) {
+        case 'p-1':
+            path = '/public/data/data/Bachelor of Information Technology (Software Development) -summary.json';
+            break;
+        case 'p-2':
+            path = '/public/data/data/Bachelor of Education (Early Childhood) - summary.json';
+            break;
+        case 'p-3':
+            path = '/public/data/data/Bachelor of Nursing (Mount Gambier) - summary.json';
+            break;
+        case 'p-4':
+            path = '/public/data/data/Bachelor of Commerce (Accounting) - summary.json';
+            break;
+        default:
+            break;
+    }
+    
+    d3.json(path, jsonHandler);
+
+});
 
 function jsonHandler(data) {
 
-    var treeData = dataRestructure(data["matching"]);
+    $("#data-analysis").empty();
 
-    // ************** Generate the tree diagram	 *****************
-    var margin = { top: 20, right: 120, bottom: 20, left: 200 },
-        width = 3000 - margin.right - margin.left,
-        height = 960 - margin.top - margin.bottom;
+    var selectSkill = $('#select-skill').find(":selected").val();
+    var selectSub = $('#select-sub').find(":selected").val();
+
+    if(selectSkill === 'h'){
+
+        switch (selectSub) {
+            case 's-1':
+                var treeData = dataRestructureMHSO(data["Matching"][0]["Hard skills"]);
+                break;
+            case 's-2':
+                var treeData = dataRestructureMHSC(data["Matching"][0]["Hard skills"]);
+                break;
+            case 's-3':
+                var treeData = dataRestructureMHSS(data["Matching"][0]["Hard skills"]);
+                break;
+            case 's-4':
+                var treeData = dataRestructureUMHSO(data["Matching"][0]["Hard skills"]);
+                break;
+            case 's-5':
+                var treeData = dataRestructureUMHSC(data["Matching"][0]["Hard skills"]);
+                break;
+            case 's-6':
+                var treeData = dataRestructureUMHSS(data["Matching"][0]["Hard skills"]);
+                break;
+            default:
+                break;
+        }
+
+    }else{
+
+        switch (selectSub) {
+            case 's-1':
+                var treeData = dataRestructureMSSO(data["Matching"][0]["Soft skills"]);
+                break;
+            case 's-2':
+                var treeData = dataRestructureMSSC(data["Matching"][0]["Soft skills"]);
+                break;
+            case 's-3':
+                var treeData = dataRestructureMSSS(data["Matching"][0]["Soft skills"]);
+                break;
+            case 's-4':
+                var treeData = dataRestructureUMSSO(data["Matching"][0]["Soft skills"]);
+                break;
+            case 's-5':
+                var treeData = dataRestructureUMSSC(data["Matching"][0]["Soft skills"]);
+                break;
+            case 's-6':
+                var treeData = dataRestructureUMSSS(data["Matching"][0]["Soft skills"]);
+                break;
+            default:
+                break;
+        }
+
+    }
+
+
+
+
+
+
+
+    /**
+     *@description: todo : use different method to restructure data
+     */
+
+    // var treeData = dataRestructureMHSS(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureMHSO(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureMHSC(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureUMHSO(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureUMHSS(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureUMHSC(data["Matching"][0]["Hard skills"]);
+
+    // var treeData = dataRestructureMSSO(data["Matching"][0]["Soft skills"]);
+
+    // var treeData = dataRestructureMSSS(data["Matching"][0]["Soft skills"]);
+
+    // var treeData = dataRestructureMSSC(data["Matching"][0]["Soft skills"]);
+    
+    // var treeData = dataRestructureUMSSO(data["Matching"][0]["Soft skills"]);
+
+    // var treeData = dataRestructureUMSSS(data["Matching"][0]["Soft skills"]);
+
+    // var treeData = dataRestructureUMHSC(data["Matching"][0]["Soft skills"]);
+
+    /**
+     *@description: Generate the tree diagram
+     */ 
+    var margin = { top: 20, right: 100, bottom: 20, left: 200 },
+        width = 2000 - margin.right - margin.left,
+        height = 860 - margin.top - margin.bottom;
 
     var i = 0,
         duration = 750,
@@ -46,11 +165,12 @@ function jsonHandler(data) {
         .size([height, width]);
 
     var diagonal = d3.svg.diagonal()
-        .projection(function (d) { 
-            return [d.y, d.x]; });
+        .projection(function (d) {
+            return [d.y, d.x];
+        });
 
-    var svg = d3.select("body").append("svg")
-        .attr("width", width + margin.right + margin.left )
+    var svg = d3.select("#data-analysis").append("svg")
+        .attr("width", width + margin.right + margin.left)
         .attr("height", height + margin.top + margin.bottom)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -60,11 +180,14 @@ function jsonHandler(data) {
     root.y0 = 0;
 
     update(root);
-    
-    //TODO:
 
-    d3.select(self.frameElement).style("height", "500px");
+    toggle(root);
 
+    d3.select(self.frameElement).style("height", "400px");
+
+    /**
+     * @description: toogle children node by click or default 
+     */
     function update(source) {
 
         // Compute the new tree layout.
@@ -72,7 +195,7 @@ function jsonHandler(data) {
             links = tree.links(nodes);
 
         // Normalize for fixed-depth.
-        nodes.forEach(function (d) { d.y = d.depth * 450; });
+        nodes.forEach(function (d) { d.y = d.depth * 300; });
 
         // Update the nodes…
         var node = svg.selectAll("g.node")
@@ -81,7 +204,7 @@ function jsonHandler(data) {
         // Enter any new nodes at the parent's previous position.
         var nodeEnter = node.enter().append("g")
             .attr("class", "node")
-            .attr("argsen-depth", function(d){
+            .attr("argsen-depth", function (d) {
                 return d.depth;
             })
             .attr("transform", function (d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
@@ -130,15 +253,15 @@ function jsonHandler(data) {
         link.enter().insert("path", "g")
             .attr("class", "link")
             .attr("d", function (d) {
-                var o = { x: source.x0, y: source.y0};
+                var o = { x: source.x0, y: source.y0 };
                 return diagonal({ source: o, target: o });
             })
             .style("stroke-linecap", "round")
-            .style("stroke", function(d){
+            .style("stroke", function (d) {
                 return d.source.color;
             })
             .style("stroke-opacity", "0.35")
-            .style("stroke-width", function(d){
+            .style("stroke-width", function (d) {
                 return d.target.size
             })
             .attr("fill", "none");
@@ -165,7 +288,6 @@ function jsonHandler(data) {
         });
     }
 
-    // Toggle children on click.
     function click(d) {
 
         if (d.children) {
@@ -178,185 +300,455 @@ function jsonHandler(data) {
         update(d);
     }
 
-    function dataRestructure(data) {
+    function toggle(d){
+
+        for(var idx in d.children){
+            if(idx != 0){
+                d.children[idx]._children = d.children[idx].children;
+                d.children[idx].children = null;
+            }
+        }
+        update(d);
+
+    }
+
+    /**
+     *@description: Matching-> Hard skills -> Matched hard skills (Overall) 
+     */
+    function dataRestructureMHSO(data){
 
         var returnData = [{
-            "name": "Skill Matching",
+            "name": "Matched hard skills",
             "parent": "null",
-            "color": "rgb(90, 12, 122)",
+            "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
             "children": []
         }];
 
-        //for overall matched hard skills
+        var unstructuredDataMHSO = data["Matched hard skills (Overall)"];
 
-        returnData[0].children.push({
-            "name": "overall matched hard skills",
-            "parent": "Skill Matching",
-            "color": "rgb(152, 43, 154)",
-            "children": [
-            ]
-        });
-
-        var unstructuredDataOMHS = data[0]["overall matched hard skills"];
-
-        for (var idx in unstructuredDataOMHS) {
+        for (var idx in unstructuredDataMHSO) {
             var pushData = {
-                "name": unstructuredDataOMHS[idx][0],
-                "parent": "overall matched hard skills",
-                "size": unstructuredDataOMHS[idx][1]
-            }
-            returnData[0].children[0].children.push(pushData);
-        }
-
-        //for overall unmatched hard skills
-
-        returnData[0].children.push({
-            "name": "overall unmatched hard skills",
-            "parent": "Skill Matching",
-            "color": "rgb(214, 45, 63)",
-            "children": [
-            ]
-        });
-
-        var unstructuredDataOUHS = data[0]["overall unmatched hard skills"];
-
-        for (var idx in unstructuredDataOUHS) {
-
-            var pushData = {
-                "name": unstructuredDataOUHS[idx],
-                "parent": "overall unmatched hard skills",
-                "size": 2
+                "name": unstructuredDataMHSO[idx][0],
+                "parent": "Matched hard skills",
+                "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "size": Number(unstructuredDataMHSO[idx][1])%20 + 1,
             }
 
-            returnData[0].children[1].children.push(pushData);
+            returnData[0].children.push(pushData);
         }
 
-        //for overall matched soft skills
+        return returnData;
 
-        returnData[0].children.push({
-            "name": "overall matched soft skills",
-            "parent": "Skill Matching",
-            "color": "rgb(176, 45, 93)",
-            "children": [
-            ]
-        });
 
-        var unstructuredDataOMSS = data[0]["overall matched soft skills"];
+    }
 
-        for (var idx in unstructuredDataOMSS) {
+    /**
+     *@description: Matching-> Hard skills -> Matched hard skills (by states of jobs) 
+     */
+    function dataRestructureMHSS(data) {
+
+        var returnData = [{
+            "name": "Matched hard skills",
+            "parent": "null",
+            "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataMHSS = data["Matched hard skills (by states of jobs)"];
+
+        for (var idx in unstructuredDataMHSS) {
             var pushData = {
-                "name": unstructuredDataOMSS[idx][0],
-                "parent": "overall matched soft skills",
-                "size": unstructuredDataOMSS[idx][1]
-            }
-            returnData[0].children[2].children.push(pushData);
-        }
-
-        //for overall unmatched soft skills
-
-        returnData[0].children.push({
-            "name": "overall unmatched soft skills",
-            "parent": "Skill Matching",
-            "color": "rgb(191, 45, 78)",
-            "children": [
-            ]
-        });
-
-        var unstructuredDataOUSS = data[0]["overall unmatched soft skills"];
-
-        for (var idx in unstructuredDataOUSS) {
-
-            var pushData = {
-                "name": unstructuredDataOUSS[idx],
-                "parent": "overall unmatched soft skills",
-                "size": 2
+                "name": unstructuredDataMHSS[idx][0],
+                "parent": "Matched hard skills",
+                "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
             }
 
-            returnData[0].children[3].children.push(pushData);
-        }
-
-        //for course level matched soft skills
-
-        returnData[0].children.push({
-            "name": "course level matched soft skills",
-            "parent": "Skill Matching",
-            "color": "rgb(215, 45, 63)",
-            "children": [
-            ]
-        });
-
-        var unstructuredDataCLMSS = data[0]["course level matched soft skills"];
-
-        for (var idx in unstructuredDataCLMSS){
-
-            var pushDataX = {
-                "name": unstructuredDataCLMSS[idx][0],
-                "parent": "course level matched soft skills",
-                "color": "rgb(225, 45, 50)",
-                "size": 2,
-                "children": [
-                ]
-            };
-
-            for(var y = 0; y < unstructuredDataCLMSS[idx][1].length; y++){
+            for(var idy in unstructuredDataMHSS[idx][1]){
                 var pushDataY = {
-                    "name": unstructuredDataCLMSS[idx][1][y],
-                    "parent": unstructuredDataCLMSS[idx],
-                    "color": "rgb(230, 45, 40)",
-                    "size": unstructuredDataCLMSS[idx][2][y],
+                    "name": unstructuredDataMHSS[idx][1][idy][0],
+                    "parent":unstructuredDataMHSS[idx][0],
+                    "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": Number(unstructuredDataMHSS[idx][1][idy][1])%20 + 1,
                 };
 
-                pushDataX.children.push(pushDataY);
-
+                pushData.children.push(pushDataY);
             }
 
-            returnData[0].children[4].children.push(pushDataX);
-
+            returnData[0].children.push(pushData);
         }
-
-        //for course level matched hard skills
-
-        returnData[0].children.push({
-            "name": "course level matched hard skills",
-            "parent": "Skill Matching",
-            "color": "rgb(165, 45, 195)",
-            "children": [
-            ]
-        });
-
-        var unstructuredDataCLMHS = data[0]["course level matched hard skills"];
-
-        for (var idx in unstructuredDataCLMHS){
-
-            var pushDataX = {
-                "name": unstructuredDataCLMHS[idx][0],
-                "parent": "course level matched soft skills",
-                "color": "rgb(145, 45, 215)",
-                "size": 2,
-                "children": [
-                ]
-            };
-
-            for(var y = 0; y < unstructuredDataCLMHS[idx][1].length; y++){
-                var pushDataY = {
-                    "name": unstructuredDataCLMHS[idx][1][y],
-                    "parent": unstructuredDataCLMHS[idx],
-                    "color": "rgb(130, 45, 225)",
-                    "size": unstructuredDataCLMHS[idx][2][y],
-                };
-
-                pushDataX.children.push(pushDataY);
-
-            }
-
-            returnData[0].children[5].children.push(pushDataX);
-
-        }
-
 
         return returnData;
 
     };
+
+    /**
+     *@description: Matching-> Hard skills -> Matched hard skills (by classification of jobs) 
+     */
+    function dataRestructureMHSC(data) {
+
+        var returnData = [{
+            "name": "Matched hard skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataMHSC = data["Matched hard skills (by classification of jobs)"];
+
+        for (var idx in unstructuredDataMHSC) {
+            var pushData = {
+                "name": unstructuredDataMHSC[idx][0],
+                "parent": "Matched hard skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataMHSC[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataMHSC[idx][1][idy][0],
+                    "parent": unstructuredDataMHSC[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": Number(unstructuredDataMHSC[idx][1][idy][1]) % 20 + 1,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Hard skills -> Unmatched hard skills (Overall) 
+     */
+    function dataRestructureUMHSO(data){
+
+        var returnData = [{
+            "name": "Unmatched hard skills",
+            "parent": "null",
+            "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMHSO = data["Unmatched hard skills (Overall)"];
+
+        for (var idx in unstructuredDataUMHSO) {
+            var pushData = {
+                "name": unstructuredDataUMHSO[idx],
+                "parent": "Unmatched hard skills",
+                "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "size": 4,
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Hard skills -> Unmatched hard skills (by states of jobs)
+     */
+    function dataRestructureUMHSS(data) {
+
+        var returnData = [{
+            "name": "Unmatched hard skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMHSS = data["Unmatched hard skills (by states of jobs)"];
+
+        for (var idx in unstructuredDataUMHSS) {
+            var pushData = {
+                "name": unstructuredDataUMHSS[idx][0],
+                "parent": "Unmatched hard skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + "," + Math.floor(Math.random() * 255) +  ", " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataUMHSS[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataUMHSS[idx][1][idy],
+                    "parent": unstructuredDataUMHSS[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": 5,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    };
+
+    /**
+     *@description: Matching-> Hard skills -> Unmatched hard skills (by classification of jobs)
+     */
+    function dataRestructureUMHSC(data) {
+
+        var returnData = [{
+            "name": "Unmatched hard skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMHSC = data["Unmatched hard skills (by classification of jobs)"];
+
+        for (var idx in unstructuredDataUMHSC) {
+            var pushData = {
+                "name": unstructuredDataUMHSC[idx][0],
+                "parent": "Unmatched hard skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataUMHSC[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataUMHSC[idx][1][idy],
+                    "parent": unstructuredDataUMHSC[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": 4,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Soft skills -> Matched soft skills (Overall)
+     */
+    function dataRestructureMSSO(data){
+
+        var returnData = [{
+            "name": "Matched soft skills",
+            "parent": "null",
+            "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataMSSO = data["Matched soft skills (Overall)"];
+
+        for (var idx in unstructuredDataMSSO) {
+            var pushData = {
+                "name": unstructuredDataMSSO[idx][0],
+                "parent": "Matched soft skills",
+                "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "size": Number(unstructuredDataMSSO[idx][1])%20 + 1,
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+
+    }
+
+    /**
+     *@description: Matching-> Soft skills -> Matched Soft skills (by states of jobs) 
+     */
+    function dataRestructureMSSS(data) {
+
+        var returnData = [{
+            "name": "Matched soft skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataMSSS = data["Matched soft skills (by states of jobs)"];
+
+        for (var idx in unstructuredDataMSSS) {
+            var pushData = {
+                "name": unstructuredDataMSSS[idx][0],
+                "parent": "Matched soft skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataMSSS[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataMSSS[idx][1][idy][0],
+                    "parent": unstructuredDataMSSS[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": Number(unstructuredDataMSSS[idx][1][idy][1]) % 20 + 1,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Soft skills -> Matched Soft skills (by classification of jobs) 
+     */
+    function dataRestructureMSSC(data) {
+
+        var returnData = [{
+            "name": "Matched soft skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataMSSC = data["Matched soft skills (by classification of jobs)"];
+
+        for (var idx in unstructuredDataMSSC) {
+            var pushData = {
+                "name": unstructuredDataMSSC[idx][0],
+                "parent": "Matched soft skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataMSSC[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataMSSC[idx][1][idy][0],
+                    "parent": unstructuredDataMSSC[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": Number(unstructuredDataMSSC[idx][1][idy][1]) % 20 + 1,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Soft skills -> Unmatched soft skills (Overall)
+     */
+    function dataRestructureUMSSO(data){
+
+        var returnData = [{
+            "name": "Unmatched soft skills",
+            "parent": "null",
+            "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMSSO = data["Unmatched soft skills (Overall)"];
+
+        for (var idx in unstructuredDataUMSSO) {
+            var pushData = {
+                "name": unstructuredDataUMSSO[idx],
+                "parent": "Unmatched soft skills",
+                "color": "rgb(" +  Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "size": 4,
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
+
+    /**
+     *@description: Matching-> Soft skills -> Unmatched soft skills (by states of jobs)
+     */
+    function dataRestructureUMSSS(data) {
+
+        var returnData = [{
+            "name": "Unmatched soft skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMSSS = data["Unmatched soft skills (by states of jobs)"];
+
+        for (var idx in unstructuredDataUMSSS) {
+            var pushData = {
+                "name": unstructuredDataUMSSS[idx][0],
+                "parent": "Unmatched soft skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + "," + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataUMSSS[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataUMSSS[idx][1][idy],
+                    "parent": unstructuredDataUMSSS[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", " + Math.floor(Math.random() * 255) + ", " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": 5,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    };
+
+    /**
+     *@description: Matching-> Hard skills -> Unmatched soft skills (by classification of jobs)
+     */
+    function dataRestructureUMHSC(data) {
+
+        var returnData = [{
+            "name": "Unmatched soft skills",
+            "parent": "null",
+            "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+            "children": []
+        }];
+
+        var unstructuredDataUMSSC = data["Unmatched soft skills (by classification of jobs)"];
+
+        for (var idx in unstructuredDataUMSSC) {
+            var pushData = {
+                "name": unstructuredDataUMSSC[idx][0],
+                "parent": "Unmatched soft skills",
+                "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                "children": []
+            }
+
+            for (var idy in unstructuredDataUMSSC[idx][1]) {
+                var pushDataY = {
+                    "name": unstructuredDataUMSSC[idx][1][idy],
+                    "parent": unstructuredDataUMSSC[idx][0],
+                    "color": "rgb(" + Math.floor(Math.random() * 255) + 1 + ", 45, " + Math.floor(Math.random() * 255) + 1 + ")",
+                    "size": 4,
+                };
+
+                pushData.children.push(pushDataY);
+            }
+
+            returnData[0].children.push(pushData);
+        }
+
+        return returnData;
+
+    }
 
 }
 

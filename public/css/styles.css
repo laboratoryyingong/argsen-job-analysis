@@ -1,3 +1,12 @@
+.select-width{
+  width:100%;
+  padding: 1em 0.5em;
+}
+
+.search-padding{
+  padding: 1em 1em 2em 1em;
+}
+
 .ct-label{
   font-size: 1em;
   width: 30px;
@@ -1323,7 +1332,8 @@ header .header-main .navigation .nav-links li .main-menu {
   color: #242c42;
   position: relative;
   background-color: transparent;
-  transition: all .3s ease-in-out
+  transition: all .3s ease-in-out;
+  font-weight: 900;
 }
 
 header .header-main .navigation .nav-links li .main-menu:after {
@@ -3288,6 +3298,70 @@ footer {
 }
 
 .page-title .breadcrumb li + li:before {
+  padding: 0 10px;
+  color: #cccccc;
+  content: '\f105';
+  font-family: FontAwesome
+}
+
+.page-title-1 {
+  background-image: url("../images/banner-2.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: top;
+  width: 100%;
+  height: 300px;
+  color: #fff;
+  text-align: center
+}
+
+.page-title-1 .container {
+  height: 100%;
+  display: table
+}
+
+.page-title-1 .page-title-wrapper {
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  z-index: 2
+}
+
+.page-title-1 .captions {
+  font-size: 42px;
+  font-weight: 900;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 0 0 7px 0
+}
+
+.page-title-1 .breadcrumb {
+  margin: 0;
+  background-color: transparent;
+  text-transform: capitalize
+}
+
+.page-title-1 .breadcrumb li {
+  display: inline-block
+}
+
+.page-title-1 .breadcrumb li a {
+  color: #cccccc
+}
+
+.page-title-1 .breadcrumb li a:hover {
+  color: #86bc42
+}
+
+.page-title-1 .breadcrumb li:last-child {
+  pointer-events: none
+}
+
+.page-title-1 .breadcrumb li.active a {
+  color: #fff
+}
+
+.page-title-1 .breadcrumb li + li:before {
   padding: 0 10px;
   color: #cccccc;
   content: '\f105';
